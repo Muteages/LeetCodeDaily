@@ -6,7 +6,7 @@ Given the head of a linked list and a value x, partition it such that all nodes 
 
 You should preserve the original relative order of the nodes in each of the two partitions.
 
-## Approach 
+## Approach 1 
 Modify the list in place. Traverse the list and move all small node to the left side of the first node which greater than or equal to x
 
 ``` C++
@@ -57,4 +57,46 @@ Modify the list in place. Traverse the list and move all small node to the left 
 
         return head;
     } 
+```
+
+## Approach 2 
+Creat two new list: small and great, return the merged list
+
+``` C++
+ListNode* partition(ListNode* head, int x) {
+        if (!head)
+        {
+            return nullptr;
+        }
+
+        ListNode* small = new ListNode(-1);
+        ListNode* great = new ListNode(-1);
+        ListNode* curSmall = small;
+        ListNode* curGreat = great;
+
+        while (head)
+        {
+            if (head->val < x)
+            { // add to small list
+                curSmall->next = head;
+                curSmall = head;
+            }
+            else
+            {
+                curGreat->next = head;
+                curGreat = head;
+            }
+
+            head = head->next;
+        }
+
+        // Merge two lists
+        curSmall->next = great->next;
+        curGreat->next = nullptr;
+
+        return small->next;
+    }
+
+
+
 ```
