@@ -7,3 +7,5 @@
 [16th, Aug - Sliding Window Maximum](./16th_Aug_Sliding_Window_Maximum.md)
 
 [17th, Aug - 01 Matrix](./17th_Aug_01%20Matrix.md)
+
+[18th, Aug - Maximal Network Rank](./18th_Aug_Maximal_Netword_Rank.md)
