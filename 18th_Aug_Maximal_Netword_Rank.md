@@ -11,7 +11,7 @@ The maximal network rank of the infrastructure is the maximum network rank of al
 Given the integer n and the array roads, return the maximal network rank of the entire infrastructure.
 
 
-## Approach
+## Approach 1
 
 Record each city's connections and then find two max numbers. Reduce one if they are connected.
 
@@ -46,6 +46,36 @@ Record each city's connections and then find two max numbers. Reduce one if they
             }
         }
 
+        return maxRank;
+    }
+```
+
+
+## Approach 2 
+
+``` C++
+    int maximalNetworkRank(int n, vector<vector<int>>& roads) {
+        vector<unordered_set<int>> connections(n); // store each city's adiacent cities. i.e the connections
+
+        for (auto& road : roads)
+        {
+            connections[road[0]].insert(road[1]);
+            connections[road[1]].insert(road[0]);
+        }
+
+        int maxRank = 0;
+        for (int i = 0; i < n; i++)
+        {
+            for (int j = i + 1; j < n; j++)
+            {
+                int currentRank = connections[i].size() + connections[j].size();
+                if (connections[i].count(j))
+                { // if two cities are connected
+                    currentRank--;
+                }
+                maxRank = std::max(maxRank, currentRank);
+            }
+        }
         return maxRank;
     }
 ```
