@@ -13,3 +13,5 @@
 [19th, Aug - Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](19th_Aug_Find_Critical_and_Pseudo-Critical_Edges_In_Minimum_Spanning_Tre.md)
 
 [20th, Aug - Delete_Node_in_a_BST](./20th_Aug_Delete_Node_in_a_BST.md)
+
+[21th, Aug - Repeated Substring Pattern](./21th_Aug_Repeated_Substring_Pattern.md)
