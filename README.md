@@ -15,3 +15,5 @@
 [20th, Aug - Delete_Node_in_a_BST](./20th_Aug_Delete_Node_in_a_BST.md)
 
 [21th, Aug - Repeated Substring Pattern](./21th_Aug_Repeated_Substring_Pattern.md)
+
+[22th, Aug - Excel Sheet Column Title](22th_Aug_Excel_Sheet_Column_Ttile.md)
