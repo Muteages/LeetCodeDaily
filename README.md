@@ -17,3 +17,5 @@
 [21th, Aug - Repeated Substring Pattern](./21th_Aug_Repeated_Substring_Pattern.md)
 
 [22th, Aug - Excel Sheet Column Title](22th_Aug_Excel_Sheet_Column_Ttile.md)
+
+[23th, Aug - Reorganize String](./23th_Aug_Reorganize_String.md)
