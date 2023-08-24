@@ -14,8 +14,10 @@
 
 [20th, Aug - Delete_Node_in_a_BST](./20th_Aug_Delete_Node_in_a_BST.md)
 
-[21th, Aug - Repeated Substring Pattern](./21th_Aug_Repeated_Substring_Pattern.md)
+[21st, Aug - Repeated Substring Pattern](./21st_Aug_Repeated_Substring_Pattern.md)
 
-[22th, Aug - Excel Sheet Column Title](22th_Aug_Excel_Sheet_Column_Ttile.md)
+[22en, Aug - Excel Sheet Column Title](22nd_Aug_Excel_Sheet_Column_Ttile.md)
 
-[23th, Aug - Reorganize String](./23th_Aug_Reorganize_String.md)
+[23rd, Aug - Reorganize String](./23rd_Aug_Reorganize_String.md)
+
+[24th, Aug - Text Justification](./24th_Aug_Text_Justification.md)
