@@ -23,3 +23,5 @@
 [24th, Aug - Text Justification](./24th_Aug_Text_Justification.md)
 
 [25th, Aug - Interleaving String](./25th_Aug_Interleaving_String.md)
+
+[26th, Aug - Maximum Length of Pair Chain](./26th_Aug_Maximum_Length_of_Pair_Chain.md)
