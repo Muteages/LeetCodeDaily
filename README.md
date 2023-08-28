@@ -27,3 +27,5 @@
 [26th, Aug - Maximum Length of Pair Chain](./26th_Aug_Maximum_Length_of_Pair_Chain.md)
 
 [27th, Aug - Frog Jump](./27th_Aug_Frog_Jump.md)
+
+[28th, Aug - Implement Stack using Queues](./28th_Aug_Implement_Stack_using_Queues.md)
