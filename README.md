@@ -31,3 +31,5 @@
 [28th, Aug - Implement Stack using Queues](./28th_Aug_Implement_Stack_using_Queues.md)
 
 [29th, Aug - Minimum Penalty for a Shop](./29th_Aug_Minimum_Penalty_for_a_Shop.md)
+
+[30th, Aug - Minimum Replacements to Sort the Array](./30th_Aug_Minimum_Replacements_to_Sort_the_Array.md)
