@@ -33,3 +33,5 @@
 [29th, Aug - Minimum Penalty for a Shop](./29th_Aug_Minimum_Penalty_for_a_Shop.md)
 
 [30th, Aug - Minimum Replacements to Sort the Array](./30th_Aug_Minimum_Replacements_to_Sort_the_Array.md)
+
+[31st, Aug - Minimum Number of Taps to Open to Water a Garden](./31st_Aug_Minimum_Number_of_Taps_to_Open_to_Water_a_Garden.md)
