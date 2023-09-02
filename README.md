@@ -37,3 +37,5 @@
 [31st, Aug - Minimum Number of Taps to Open to Water a Garden](./31st_Aug_Minimum_Number_of_Taps_to_Open_to_Water_a_Garden.md)
 
 [1st, Sept - Counting Bits](./1st_Sept_Counting_Bits.md)
+
+[2nd, Sept - Extra Characters in a String](./2nd_Sept_Extra_Character_in_a_String.md)
