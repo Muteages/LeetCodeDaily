@@ -39,3 +39,5 @@
 [1st, Sept - Counting Bits](./1st_Sept_Counting_Bits.md)
 
 [2nd, Sept - Extra Characters in a String](./2nd_Sept_Extra_Character_in_a_String.md)
+
+[3rd, Sept - Unique Paths](./3rd_Sept_Unique_Paths.md)
