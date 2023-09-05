@@ -43,3 +43,5 @@
 [3rd, Sept - Unique Paths](./3rd_Sept_Unique_Paths.md)
 
 [4th, Sept - Linked List Cycle](./4th_Sept_Linked_List_Cycle.md)
+
+[5th, Sept - Copy List with Random Pointer](./5th_Sept_Copy_List_with_Random_Pointer.md)
