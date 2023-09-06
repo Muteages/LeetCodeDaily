@@ -11,7 +11,7 @@ The parts should be in the order of occurrence in the input list, and parts occu
 Return an array of the k parts.
 
 
-## Approach 
+## Approach 1
 
 ``` C++
    vector<ListNode*> splitListToParts(ListNode* head, int k) {
@@ -61,4 +61,43 @@ Return an array of the k parts.
         return ans;
     }
 ```
+
+## Approach 2
+
+Instead create an extra vector, simply reloop the linked list
+
+``` C++
+   vector<ListNode*> splitListToParts(ListNode* head, int k) {
+        int n = 0;
+        ListNode* node = head;
+        while (node)
+        {
+            n++;
+            node = node->next;
+        }
+
+        std::vector<ListNode*> ans(k, nullptr);
+        int partSize = n / k;
+        int rem = n % k;
+        node = head;
+        ListNode* prev = nullptr;
+        for (int i = 0; node && i < k; i++)
+        {
+            int curSize = partSize + (rem > 0);
+            rem--;
+            ans[i] = node;
+
+            for (int j = 0; j < curSize; j++)
+            {
+                prev = node;
+                node = node->next;
+            }
+
+            prev->next = nullptr;
+        }
+
+        return ans;
+    }
+```
+
 
