@@ -47,3 +47,5 @@
 [5th, Sept - Copy List with Random Pointer](./5th_Sept_Copy_List_with_Random_Pointer.md)
 
 [6th, Sept - Split Linked List in Parts](./6th_Sept_Split_Linked_List_in_Parts.md)
+
+[7th, Sept - Reverse Linked List II](./7th_Sept_Reverse_Linked_List_II.md)
