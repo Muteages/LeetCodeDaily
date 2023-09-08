@@ -1,5 +1,7 @@
 # LeetCode Daily Challenge
 
+## August
+
 [14th, Aug - Kth Largest Element](./14th_Aug_Kth_Largest_Element.md)
 
 [15th, Aug - Partition List](./15th_Aug_Partition_List.md)
@@ -35,6 +37,8 @@
 [30th, Aug - Minimum Replacements to Sort the Array](./30th_Aug_Minimum_Replacements_to_Sort_the_Array.md)
 
 [31st, Aug - Minimum Number of Taps to Open to Water a Garden](./31st_Aug_Minimum_Number_of_Taps_to_Open_to_Water_a_Garden.md)
+
+## September
 
 [1st, Sept - Counting Bits](./1st_Sept_Counting_Bits.md)
 
