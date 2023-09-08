@@ -49,3 +49,5 @@
 [6th, Sept - Split Linked List in Parts](./6th_Sept_Split_Linked_List_in_Parts.md)
 
 [7th, Sept - Reverse Linked List II](./7th_Sept_Reverse_Linked_List_II.md)
+
+[8TH, Sept - Pascal's Triangle](./8th_Sept_Pascal's_Triangle.md)
