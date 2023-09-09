@@ -23,7 +23,7 @@ Given an array of distinct integers nums and a target integer target, return the
             for (const auto& num : nums)
             {
                 if (i - num >= 0)
-                {
+                { // If i-num exists, it indicates that we can combine num and i-num to i. 
                     dp[i] += dp[i - num];
                 }
                 else
