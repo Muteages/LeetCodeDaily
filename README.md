@@ -56,4 +56,4 @@
 
 [8th, Sept - Pascal's Triangle](./September/8th_Sept_Pascal's_Triangle.md)
 
-[9th, Sept - Combination Sum IV](./September/9th_Combination_Sum_IV.md)
+[9th, Sept - Combination Sum IV](./September/9th_Sept_Combination_Sum_IV.md)
