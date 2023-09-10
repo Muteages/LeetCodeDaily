@@ -57,3 +57,5 @@
 [8th, Sept - Pascal's Triangle](./September/8th_Sept_Pascal's_Triangle.md)
 
 [9th, Sept - Combination Sum IV](./September/9th_Sept_Combination_Sum_IV.md)
+
+[10th, Sept - Count All Valid Pickup and Delivery Options](./September/10th_Sept_Count_All_Valid_Pickup_and_Delivery_Options.md)
