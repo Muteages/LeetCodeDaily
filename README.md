@@ -59,3 +59,5 @@
 [9th, Sept - Combination Sum IV](./September/9th_Sept_Combination_Sum_IV.md)
 
 [10th, Sept - Count All Valid Pickup and Delivery Options](./September/10th_Sept_Count_All_Valid_Pickup_and_Delivery_Options.md)
+
+[11st, Sept - Group the People Given the Group Size They Belong To](./September/11st_Sept_Group_the_People_Given_the_Group_Size_They_Belong_To.md)
