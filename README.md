@@ -62,4 +62,6 @@
 
 [11st, Sept - Group the People Given the Group Size They Belong To](./September/11st_Sept_Group_the_People_Given_the_Group_Size_They_Belong_To.md)
 
-[12en, Sept - Minimum Deletions to Make Character Frequencies Unique](./September/12nd_Sept_Minimum_Deletions_to_Make_Character_Frequencies_Unique.md)
+[12nd, Sept - Minimum Deletions to Make Character Frequencies Unique](./September/12nd_Sept_Minimum_Deletions_to_Make_Character_Frequencies_Unique.md)
+
+[13rd, Sept - Candy](./September/13rd_Sept_Candy.md)
