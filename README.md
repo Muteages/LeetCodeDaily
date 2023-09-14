@@ -65,3 +65,5 @@
 [12nd, Sept - Minimum Deletions to Make Character Frequencies Unique](./September/12nd_Sept_Minimum_Deletions_to_Make_Character_Frequencies_Unique.md)
 
 [13rd, Sept - Candy](./September/13rd_Sept_Candy.md)
+
+[14th, Sept - Reconstruct Itinerary](./September/14th_Sept_Reconstruct_Itinerary.md)
