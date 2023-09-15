@@ -67,3 +67,5 @@
 [13rd, Sept - Candy](./September/13rd_Sept_Candy.md)
 
 [14th, Sept - Reconstruct Itinerary](./September/14th_Sept_Reconstruct_Itinerary.md)
+
+[15th, Sept - Min Cost to Connect All Points](./September/15th_Min_Cost_to_Connect_All_Points.md)
