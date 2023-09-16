@@ -45,7 +45,7 @@ Dijkstra Algorithm
 
                     if (nx >= 0 && nx < h && ny >= 0 && ny < n)
                     {
-                        int eff = std::max(effort, std::abs(heights[nx][ny] - heights[x][y]));
+                        int eff = std::max(effort, std::abs(heights[nx][ny] - heights[x][y])); // Make sure the current effort is not smaller than previous effort
                         if (eff < efforts[nx][ny])
                         { // Update the minimum efforts
                             efforts[nx][ny] = eff;
@@ -63,3 +63,61 @@ Dijkstra Algorithm
 
 Binary Search
 
+
+``` C++
+    std::vector<std::vector<int>> dirs{{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+    int h, n;
+
+    bool dfs(int x, int y, int threshold, std::vector<std::vector<bool>>& visited, vector<vector<int>>& heights)
+    {
+        if (x == h - 1 && y == n - 1)
+        {
+            return true;
+        }
+
+        visited[x][y] = true;
+
+        for (auto& dir : dirs)
+        {
+            int nx = x + dir[0];
+            int ny = y + dir[1];
+
+            if (nx >= 0 && nx < h && ny >= 0 && ny < n && !visited[nx][ny])
+            {
+                int effort = std::abs(heights[nx][ny] - heights[x][y]);
+                if (effort <= threshold && dfs(nx, ny, threshold, visited, heights))
+                {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+
+    int minimumEffortPath(vector<vector<int>>& heights) {
+        h = heights.size();
+        n = heights[0].size();
+
+
+        int l = 0, r = 1e6;
+        int effort = 0;
+
+        while (l <= r)
+        {
+            int m = l + (r - l) / 2;
+            std::vector<std::vector<bool>> visited(h, std::vector<bool>(n, false));
+
+            if (dfs(0, 0, m, visited, heights))
+            {
+                r = m - 1;
+                effort = m;
+            }
+            else
+            {
+                l = m + 1;
+            }
+        }
+
+        return effort;
+    }
+```
