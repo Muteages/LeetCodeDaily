@@ -71,3 +71,5 @@
 [15th, Sept - Min Cost to Connect All Points](./September/15th_Min_Cost_to_Connect_All_Points.md)
 
 [16th, Sept - Path With Minimum Effort](./September/16th_Sept_Path_with_Minimum_Effort.md)
+
+[17th, Sept - N-th Tribonacci Number](./September/17th_N-th_Tribonacci_Number.md)
