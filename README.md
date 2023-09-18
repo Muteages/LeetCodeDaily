@@ -73,3 +73,5 @@
 [16th, Sept - Path With Minimum Effort](./September/16th_Sept_Path_with_Minimum_Effort.md)
 
 [17th, Sept - N-th Tribonacci Number](./September/17th_N-th_Tribonacci_Number.md)
+
+[18th, Sept - The K Weakest Rows in a Matrix](./September/18th_The_K_Weakest_Rows_In_a_Matrix.md)
