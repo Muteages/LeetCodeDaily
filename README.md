@@ -75,3 +75,5 @@
 [17th, Sept - N-th Tribonacci Number](./September/17th_N-th_Tribonacci_Number.md)
 
 [18th, Sept - The K Weakest Rows in a Matrix](./September/18th_The_K_Weakest_Rows_In_a_Matrix.md)
+
+[19th, Sept - Find the duplicate Number](./September/19th_Find_the_Duplicate_Number.md)
