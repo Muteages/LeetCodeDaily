@@ -77,3 +77,5 @@
 [18th, Sept - The K Weakest Rows in a Matrix](./September/18th_The_K_Weakest_Rows_In_a_Matrix.md)
 
 [19th, Sept - Find the duplicate Number](./September/19th_Find_the_Duplicate_Number.md)
+
+[20th, Sept - Minimum Operations to Reduce X to Zero](./September/20th_Minimum_Operations_to_Reduce_X_to_Zero.md)
