@@ -79,3 +79,5 @@
 [19th, Sept - Find the duplicate Number](./September/19th_Find_the_Duplicate_Number.md)
 
 [20th, Sept - Minimum Operations to Reduce X to Zero](./September/20th_Minimum_Operations_to_Reduce_X_to_Zero.md)
+
+[21st, Sept - Median of Two Sorted Arrays](./September/21th_Median_of_Two_Sorted_Arrays.md)
