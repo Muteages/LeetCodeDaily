@@ -80,4 +80,6 @@
 
 [20th, Sept - Minimum Operations to Reduce X to Zero](./September/20th_Minimum_Operations_to_Reduce_X_to_Zero.md)
 
-[21st, Sept - Median of Two Sorted Arrays](./September/21th_Median_of_Two_Sorted_Arrays.md)
+[21st, Sept - Median of Two Sorted Arrays](./September/21st_Median_of_Two_Sorted_Arrays.md)
+
+[22nd, Sept - Is Subsequence](./September/22nd_Is_Subsequence.md)
