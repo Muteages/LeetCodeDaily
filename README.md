@@ -83,3 +83,5 @@
 [21st, Sept - Median of Two Sorted Arrays](./September/21st_Median_of_Two_Sorted_Arrays.md)
 
 [22nd, Sept - Is Subsequence](./September/22nd_Is_Subsequence.md)
+
+[23rd, Sept - Longest String Chain](./September/23rd_Longest_String_Chain.md)
