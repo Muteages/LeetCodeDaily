@@ -85,3 +85,5 @@
 [22nd, Sept - Is Subsequence](./September/22nd_Is_Subsequence.md)
 
 [23rd, Sept - Longest String Chain](./September/23rd_Longest_String_Chain.md)
+
+[24th, Sept - Champagne Tower](./September/24th_Champagne_Tower.md)
