@@ -89,3 +89,5 @@
 [24th, Sept - Champagne Tower](./September/24th_Champagne_Tower.md)
 
 [25th, Sept - Find the Difference](./September/25th_Find_the_Difference.md)
+
+[26th, Sept - Remove Duplicate Letters](./September/26th_Remove_Duplicate_Letters.md)
