@@ -91,3 +91,5 @@
 [25th, Sept - Find the Difference](./September/25th_Find_the_Difference.md)
 
 [26th, Sept - Remove Duplicate Letters](./September/26th_Remove_Duplicate_Letters.md)
+
+[27th, Sept - Decoded String at Index](./September/27th_Decoded_String_at_Index.md)
