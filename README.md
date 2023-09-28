@@ -93,3 +93,5 @@
 [26th, Sept - Remove Duplicate Letters](./September/26th_Remove_Duplicate_Letters.md)
 
 [27th, Sept - Decoded String at Index](./September/27th_Decoded_String_at_Index.md)
+
+[28th, Sept - Sort by Parity](./September/28th_Sort_by_Parity.md)
