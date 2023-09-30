@@ -97,3 +97,5 @@
 [28th, Sept - Sort by Parity](./September/28th_Sort_by_Parity.md)
 
 [29th, Sept - Monotonic_Array](./September/29th_Monotonic_Array.md)
+
+[30th, Sept - 132 Pattern](./September/30th_132_Pattern.md)
