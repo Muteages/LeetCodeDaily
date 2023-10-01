@@ -99,3 +99,7 @@
 [29th, Sept - Monotonic_Array](./September/29th_Monotonic_Array.md)
 
 [30th, Sept - 132 Pattern](./September/30th_132_Pattern.md)
+
+## October
+
+[1st, Sept - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
