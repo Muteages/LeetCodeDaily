@@ -4,7 +4,9 @@
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
 
-[2st, Oct - Remove Colored Pieces if Both Neighbors are the Same Color](./October/2nd_Remove_Coloured_Pieces_if_Both_Neighbours_are_the_Same_Colour.md)
+[2nd, Oct - Remove Colored Pieces if Both Neighbors are the Same Color](./October/2nd_Remove_Coloured_Pieces_if_Both_Neighbours_are_the_Same_Colour.md)
+
+[3rd, Oct - Number of Good Pairs](./October/3rd_Number_of_Good_Pairs.md)
 
 
 ## September
