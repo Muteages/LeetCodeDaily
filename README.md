@@ -8,6 +8,8 @@
 
 [3rd, Oct - Number of Good Pairs](./October/3rd_Number_of_Good_Pairs.md)
 
+[4th, Oct - Design_HashMap](./October/4th_Design_HashMap.md)
+
 
 ## September
 
