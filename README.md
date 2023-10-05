@@ -10,6 +10,8 @@
 
 [4th, Oct - Design_HashMap](./October/4th_Design_HashMap.md)
 
+[5th, Oct - Majority Element](./October/5th_Majority_Element.md)
+
 
 ## September
 
