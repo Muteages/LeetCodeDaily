@@ -12,6 +12,8 @@
 
 [5th, Oct - Majority Element](./October/5th_Majority_Element.md)
 
+[6th, Oct - Integer Break](./October/6th_Integer_Break.md)
+
 
 ## September
 
