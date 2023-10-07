@@ -14,6 +14,8 @@
 
 [6th, Oct - Integer Break](./October/6th_Integer_Break.md)
 
+[7th, Oct - Lowest Common Ancestor of a Binary Search Tree](./October/7th_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md)
+
 
 ## September
 
