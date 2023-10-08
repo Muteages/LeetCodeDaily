@@ -16,6 +16,8 @@
 
 [7th, Oct - Lowest Common Ancestor of a Binary Search Tree](./October/7th_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md)
 
+[8th, Oct - Max Dot Product of Two Subsequences](./October/8th_Max_Dot_Product_of_Two_Subsequences.md)
+
 
 ## September
 
