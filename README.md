@@ -18,6 +18,8 @@
 
 [8th, Oct - Max Dot Product of Two Subsequences](./October/8th_Max_Dot_Product_of_Two_Subsequences.md)
 
+[9th, Oct - Find First and Last Position of Element in Sorted Array](./October/9th_Find_First_and_Last_Position_of_Element_in_Sorted_Array.md)
+
 
 ## September
 
