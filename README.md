@@ -20,6 +20,8 @@
 
 [9th, Oct - Find First and Last Position of Element in Sorted Array](./October/9th_Find_First_and_Last_Position_of_Element_in_Sorted_Array.md)
 
+[10th, Oct - Minimum Number of Operations to Make Array Continuous](./October/10th_Minimum_Number_of_Operations_to_Make_Array_Continuous.md)
+
 
 ## September
 
