@@ -22,6 +22,8 @@
 
 [10th, Oct - Minimum Number of Operations to Make Array Continuous](./October/10th_Minimum_Number_of_Operations_to_Make_Array_Continuous.md)
 
+[11st, Oct - Number of Flowers in Full Bloom](./October/11st_Number_of_Flowers_in_Full_Bloom.md)
+
 
 ## September
 
