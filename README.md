@@ -24,6 +24,8 @@
 
 [11st, Oct - Number of Flowers in Full Bloom](./October/11st_Number_of_Flowers_in_Full_Bloom.md)
 
+[12nd, Oct - Find in Mountain Array](./October/12nd_Find_in_Mountain_Array.md)
+
 
 ## September
 
