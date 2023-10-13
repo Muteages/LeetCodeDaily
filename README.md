@@ -26,6 +26,8 @@
 
 [12nd, Oct - Find in Mountain Array](./October/12nd_Find_in_Mountain_Array.md)
 
+[13rd, Oct - Min Cost Climbing Stairs](./October/13rd_Min_Cost_Climbing_Stairs.md)
+
 
 ## September
 
