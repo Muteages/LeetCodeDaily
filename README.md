@@ -28,6 +28,8 @@
 
 [13rd, Oct - Min Cost Climbing Stairs](./October/13rd_Min_Cost_Climbing_Stairs.md)
 
+[14th, Oct - Find Peak Element](./October/14th_Find_Peak_Element.md)
+
 
 ## September
 
