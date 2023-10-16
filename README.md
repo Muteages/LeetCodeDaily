@@ -30,8 +30,9 @@
 
 [14th, Oct - Find Peak Element](./October/14th_Find_Peak_Element.md)
 
-[15th, Oct - Number of Ways to Stay in the Same Place After Some Steps
-](./October/15th_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.md)
+[15th, Oct - Number of Ways to Stay in the Same Place After Some Steps](./October/15th_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.md)
+
+[16th, Oct - Pascals Triangle](./October/16th_Pascals_Triangle.md)
 
 
 ## September
