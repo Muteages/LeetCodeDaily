@@ -34,6 +34,8 @@
 
 [16th, Oct - Pascals Triangle](./October/16th_Pascals_Triangle.md)
 
+[17th, Oct - Validate Binary Tree Nodes](./October/17th_Validate_Binary_Tree_Nodes.md)
+
 
 ## September
 
