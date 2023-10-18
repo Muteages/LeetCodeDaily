@@ -36,6 +36,8 @@
 
 [17th, Oct - Validate Binary Tree Nodes](./October/17th_Validate_Binary_Tree_Nodes.md)
 
+[18th, Oct - Parallel Courses III](./October/18th_Parallel_Courses.md)
+
 
 ## September
 
