@@ -38,6 +38,8 @@
 
 [18th, Oct - Parallel Courses III](./October/18th_Parallel_Courses.md)
 
+[19th, Oct - Backspace String Compare](./October/19th_Backspace_String_Compare.md)
+
 
 ## September
 
