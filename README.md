@@ -40,6 +40,8 @@
 
 [19th, Oct - Backspace String Compare](./October/19th_Backspace_String_Compare.md)
 
+[20th, Oct - Flatten Nested List Iterator](./October/20th_Flatten_Nested_List_Iterator.md)
+
 
 ## September
 
