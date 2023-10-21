@@ -42,6 +42,8 @@
 
 [20th, Oct - Flatten Nested List Iterator](./October/20th_Flatten_Nested_List_Iterator.md)
 
+[21st, Oct - Constrained Subsequence Sum](./October/21st_Constrained_Subsequence_Sum.md)
+
 
 ## September
 
