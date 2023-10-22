@@ -44,6 +44,8 @@
 
 [21st, Oct - Constrained Subsequence Sum](./October/21st_Constrained_Subsequence_Sum.md)
 
+[22nd, Oct - Maximum Score of a Good Subarray](./October/22nd_Maximum_Score_of_a_Good_Subarray.md)
+
 
 ## September
 
