@@ -46,6 +46,8 @@
 
 [22nd, Oct - Maximum Score of a Good Subarray](./October/22nd_Maximum_Score_of_a_Good_Subarray.md)
 
+[23rd, Oct - Power_of_Four](./October/23rd_Power_of_Four.md)
+
 
 ## September
 
