@@ -48,6 +48,8 @@
 
 [23rd, Oct - Power_of_Four](./October/23rd_Power_of_Four.md)
 
+[24th, Oct - Find Largest Value in Each Tree Row](./October/24th_Find_Largest_Value_in_Each_Tree_Row.md)
+
 
 ## September
 
