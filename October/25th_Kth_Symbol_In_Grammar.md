@@ -23,7 +23,7 @@ Given two integer n and k, return the kth (1-indexed) symbol in the nth row of a
 
         int flipCnt = 0;
         int total = std::pow(2, n - 1);
-        while (total > 2)
+        while (total > 1)
         {
             total /= 2;
             if (k > total)
@@ -32,12 +32,6 @@ Given two integer n and k, return the kth (1-indexed) symbol in the nth row of a
                 flipCnt++;
             }
         }
-        // Convert to the basic 01 pattern
-        int ans = (k == 1) ? 0 : 1;
-        if (flipCnt % 2 != 0)
-        {
-            ans ^= 1;
-        }
-        return ans;        
+        return flipCnt % 2 == 0 ? 0 : 1;       
     }
 ```
