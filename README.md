@@ -50,6 +50,8 @@
 
 [24th, Oct - Find Largest Value in Each Tree Row](./October/24th_Find_Largest_Value_in_Each_Tree_Row.md)
 
+[25th, Oct - Kth Symbol in Grammar](./October/25th_Kth_Symbol_In_Grammar.md)
+
 
 ## September
 
