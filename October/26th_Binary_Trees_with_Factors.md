@@ -15,6 +15,7 @@ We make a binary tree using these integers, and each number may be used for any 
         std::sort(arr.begin(), arr.end());
         std::unordered_map<int, long> treeCnt; // node - treeNum with the current node as root
         treeCnt[arr[0]] = 1;
+        int res = 1;
 
         for (int i = 1; i < arr.size(); i++)
         {
@@ -28,12 +29,7 @@ We make a binary tree using these integers, and each number may be used for any 
                 }
             }
             treeCnt[curr] = tempCnt;
-        }
-
-        int res = 0;
-        for (auto& [node, cnt] : treeCnt)
-        {
-            res = (res + cnt) % mod;
+            res = (res + tempCnt) % mod;
         }
         return res;
     }
