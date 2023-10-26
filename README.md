@@ -52,6 +52,8 @@
 
 [25th, Oct - Kth Symbol in Grammar](./October/25th_Kth_Symbol_In_Grammar.md)
 
+[26th, Oct - Binary Trees with Factors](./October/26th_Binary_Trees_with_Factors.md)
+
 
 ## September
 
