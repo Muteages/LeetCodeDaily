@@ -54,6 +54,8 @@
 
 [26th, Oct - Binary Trees with Factors](./October/26th_Binary_Trees_with_Factors.md)
 
+[27th, Oct - Longest Palindromic Substring](./October/27th_Longest_Palindromic_Substring.md)
+
 
 ## September
 
