@@ -56,6 +56,8 @@
 
 [27th, Oct - Longest Palindromic Substring](./October/27th_Longest_Palindromic_Substring.md)
 
+[28th, Oct - Count Vowels Permutation](./October/28th_Count_Vowels_Permutation.md)
+
 
 ## September
 
