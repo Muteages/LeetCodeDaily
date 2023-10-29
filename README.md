@@ -58,6 +58,8 @@
 
 [28th, Oct - Count Vowels Permutation](./October/28th_Count_Vowels_Permutation.md)
 
+[29th, Oct - Poor Pigs](./October/29th_Poor_Pigs.md)
+
 
 ## September
 
