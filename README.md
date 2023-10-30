@@ -60,6 +60,8 @@
 
 [29th, Oct - Poor Pigs](./October/29th_Poor_Pigs.md)
 
+[30th, Oct - Sort Integers by The Number of 1 Bits](./October/30th_Sort_Integers_by_the_Number_of_1_Bits.md)
+
 
 ## September
 
