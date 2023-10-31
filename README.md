@@ -62,6 +62,8 @@
 
 [30th, Oct - Sort Integers by The Number of 1 Bits](./October/30th_Sort_Integers_by_the_Number_of_1_Bits.md)
 
+[31st, Oct - Find The Original Array of Prefix Xor](./October/31st_Find_the_Original_Array_of_Prefix_Xor.md)
+
 
 ## September
 
