@@ -1,5 +1,9 @@
 # LeetCode Daily Challenge
 
+## November
+
+[1st, Nov - Find Mode in Binary Search Tree](./November/1st_Find_Mode_in_Binary_Search_Tree.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
