@@ -4,6 +4,8 @@
 
 [1st, Nov - Find Mode in Binary Search Tree](./November/1st_Find_Mode_in_Binary_Search_Tree.md)
 
+[2nd, Nov - Count Nodes Equal to Average of Subtree](./November/2nd_Count_Nodes_Equal_to_Average_of_Subtree.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
