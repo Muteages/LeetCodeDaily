@@ -6,6 +6,7 @@
 
 [2nd, Nov - Count Nodes Equal to Average of Subtree](./November/2nd_Count_Nodes_Equal_to_Average_of_Subtree.md)
 
+[3rd, Nov - Build an Array with Stack Operations](./November/3rd_Build_an_Array_with_Stack_Operations.md)
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
