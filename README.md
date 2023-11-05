@@ -10,6 +10,8 @@
 
 [4th, Nov - Last Moment Before All Ants Fall Out of a Plank](./November/4th_Last_Moment_Before_All_Ants_Fall_Out_of_a_Plank.md)
 
+[5th, Nov - Find the Winner of an Array Game](./November/5th_Find_the_Winner_of_an_Array_Game.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
