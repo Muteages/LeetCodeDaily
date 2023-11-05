@@ -49,10 +49,17 @@ Return the integer which will win the game.
 
 ## Approach 2
 
-Improved solution
+Optimal solution
 
 ``` C++
     int getWinner(vector<int>& arr, int k) {
+
+        int max = *std::max_element(arr.begin(), arr.end());
+        if (k > arr.size() - 1) 
+        {
+            return max;
+        }
+        
         // Initialise 
         int winner = arr[0];
         int streak = 0;
@@ -68,7 +75,7 @@ Improved solution
                 streak = 1;
             }
             
-            if (streak == k)
+            if (streak == k || winner == max)
             {
                 return winner;
             }
