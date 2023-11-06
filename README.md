@@ -12,6 +12,8 @@
 
 [5th, Nov - Find the Winner of an Array Game](./November/5th_Find_the_Winner_of_an_Array_Game.md)
 
+[6th, Nov - Seat Reservation Manager](./November/6th_Seat_Reservation_Manager.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
