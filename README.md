@@ -14,6 +14,8 @@
 
 [6th, Nov - Seat Reservation Manager](./November/6th_Seat_Reservation_Manager.md)
 
+[7th, Nov - Eliminate Maximum Number of Monsters](./November/7th_Eliminate_Maximum_Number_of_Monsters.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
