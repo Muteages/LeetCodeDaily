@@ -16,6 +16,8 @@
 
 [7th, Nov - Eliminate Maximum Number of Monsters](./November/7th_Eliminate_Maximum_Number_of_Monsters.md)
 
+[8th, Nov - Determine if a Cell Is Reachable at a Given Time](./November/8th_Determine_if_a_Cell_Is_Reachable_at_a_Given_Time.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
