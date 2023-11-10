@@ -20,6 +20,8 @@
 
 [9th, Nov - Count Number of Homogenous Substrings](./November/9th_Count_Number_of_Homogenous_Substrings.md)
 
+[10th, Nov - Restore the Array From Adjacent Pairs](./November/10th_Restore_the_Array_from_Adjacent_Pairs.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
