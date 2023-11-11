@@ -22,6 +22,8 @@
 
 [10th, Nov - Restore the Array From Adjacent Pairs](./November/10th_Restore_the_Array_from_Adjacent_Pairs.md)
 
+[11st, Nov - Design Graph With Shortest Path Calculator](./November/11st_Design_Graph_with_Shortest_Path_Calculator.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
