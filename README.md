@@ -24,7 +24,9 @@
 
 [11st, Nov - Design Graph With Shortest Path Calculator](./November/11st_Design_Graph_with_Shortest_Path_Calculator.md)
 
-[12ND, Nov - Bus Routes](./November/12nd_Bus_Routes.md)
+[12nd, Nov - Bus Routes](./November/12nd_Bus_Routes.md)
+
+[13rd, Nov - Sort Vowels in a String](./November/13rd_Sort_Vowels_in_a_String.md)
 
 ## October
 
