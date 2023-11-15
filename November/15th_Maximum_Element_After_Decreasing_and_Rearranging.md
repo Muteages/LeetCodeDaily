@@ -20,7 +20,7 @@ Return the maximum possible value of an element in arr after performing the oper
         int ans = 1; // First element must be 1
         for (int i = 1; i < arr.size(); i++)
         {
-            if (std::abs(arr[i] - arr[i - 1]) > 1)
+            if (arr[i] - arr[i - 1] > 1)
             { // Need to decrease the number
                 arr[i] = arr[i - 1] + 1;
             }
