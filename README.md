@@ -30,6 +30,8 @@
 
 [14th, Nov - Unique Length-3 Palindromic Subsequences](./November/14th_Unique_Length_3-Palindromic-subsequences.md)
 
+[15th, Nov - Maximum Element After Decreasing and Rearranging](./November/15th_Maximum_Element_After_Decreasing_and_Rearranging.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
