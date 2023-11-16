@@ -32,6 +32,8 @@
 
 [15th, Nov - Maximum Element After Decreasing and Rearranging](./November/15th_Maximum_Element_After_Decreasing_and_Rearranging.md)
 
+[16th, Nov - Find Unique Binary String](./November/16th_Find_Unique_Binary_String.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
