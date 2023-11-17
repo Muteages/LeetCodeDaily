@@ -34,6 +34,8 @@
 
 [16th, Nov - Find Unique Binary String](./November/16th_Find_Unique_Binary_String.md)
 
+[17th, Nov - Minimize Maximum Pair Sum in Array](./November/17th_Minimize_Maximum_Pair_Sum_in_Array.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
