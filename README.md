@@ -36,6 +36,8 @@
 
 [17th, Nov - Minimize Maximum Pair Sum in Array](./November/17th_Minimize_Maximum_Pair_Sum_in_Array.md)
 
+[18th, Nov - Frequency of the Most Frequent Element](./November/18th_Frequency_of_the_Most_Frequent_Element.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
