@@ -38,6 +38,8 @@
 
 [18th, Nov - Frequency of the Most Frequent Element](./November/18th_Frequency_of_the_Most_Frequent_Element.md)
 
+[19th, Nov - Reduction Operations to Make the Array Elements Equal](./November/19th_Reduction_Operations_to_Make_the_Array_Elements_Equal.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
