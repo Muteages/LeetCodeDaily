@@ -40,6 +40,8 @@
 
 [19th, Nov - Reduction Operations to Make the Array Elements Equal](./November/19th_Reduction_Operations_to_Make_the_Array_Elements_Equal.md)
 
+[20th, Nov - Minimum Amount of Time to Collect Garbage](./November/20th_Minimum_Amount_of_Time_to_Collect_Garbage.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
