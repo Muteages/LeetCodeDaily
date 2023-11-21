@@ -42,6 +42,8 @@
 
 [20th, Nov - Minimum Amount of Time to Collect Garbage](./November/20th_Minimum_Amount_of_Time_to_Collect_Garbage.md)
 
+[21st, Nov - Count Nice Pairs in an Array](./November/21st_Count_Nice_Pairs_in_an_Array.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
