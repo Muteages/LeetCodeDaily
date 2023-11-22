@@ -44,6 +44,8 @@
 
 [21st, Nov - Count Nice Pairs in an Array](./November/21st_Count_Nice_Pairs_in_an_Array.md)
 
+[22nd, Nov - Diagonal Traverse](./November/22nd_Diagonal_Traverse.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
