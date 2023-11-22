@@ -52,3 +52,32 @@ Improve : avoid the tuple structure: store the elements from bottom to left.
             }
         }
 ```
+
+## Approach 2
+
+``` C++
+    vector<int> findDiagonalOrder(vector<vector<int>>& nums) {
+        std::vector<int> ans;
+        int n = nums.size();
+        std::queue<std::pair<int, int>> q;
+        q.emplace(0, 0);
+
+        while (!q.empty())
+        {
+            auto [row, col] = q.front();
+            q.pop();
+            ans.emplace_back(nums[row][col]);
+
+            // Update node
+            if (col == 0 && row + 1 < n)
+            {   // Add the element below
+                q.emplace(row + 1, 0);
+            }
+            if (col + 1 < nums[row].size())
+            {   // Add the element on the right
+                q.emplace(row, col + 1);
+            }
+        }
+        return ans;
+    }
+```
