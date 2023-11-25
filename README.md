@@ -49,6 +49,9 @@
 [23rd, Nov - Arithmetic Subarrays](./November/23rd_Arithmetic_Subarrays.md)
 
 [24th, Nov - Maximum Number of Coins You Can Get](./November/24th_Maximum_Number_of_Coins_You_Can_Get.md)
+
+[25th, Nov - Sum of Absolute Differences in a Sorted Array](./November/25th_Sum_of_Absolute_Differences_in_a_Sorted_Array.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
