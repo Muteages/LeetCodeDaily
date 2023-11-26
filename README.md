@@ -52,6 +52,8 @@
 
 [25th, Nov - Sum of Absolute Differences in a Sorted Array](./November/25th_Sum_of_Absolute_Differences_in_a_Sorted_Array.md)
 
+[26th, Nov - Largest Submatrix with Rearrangement](./November/26th_Largest_Submatrix_with_Rearrangement.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
