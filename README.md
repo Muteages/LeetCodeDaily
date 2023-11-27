@@ -54,6 +54,8 @@
 
 [26th, Nov - Largest Submatrix with Rearrangement](./November/26th_Largest_Submatrix_with_Rearrangement.md)
 
+[27th, Nov - Knight Diagler](./November/27th_Knight_Diagler.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
