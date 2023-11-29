@@ -58,6 +58,8 @@
 
 [28th, Nov - Number of Ways to Divide a Long Corridor](./November/28th_Number_of_Ways_to_Divide_a_Long_Corridor.md)
 
+[29th, Nov - Number of 1 Bits](./November/29th_Number_of_1_Bits.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
