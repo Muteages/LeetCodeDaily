@@ -60,6 +60,8 @@
 
 [29th, Nov - Number of 1 Bits](./November/29th_Number_of_1_Bits.md)
 
+[30th, Nov - Maximum Number of Vowles in a Substring of Given Length](./November/30th_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.md)
+
 ## October
 
 [1st, Oct - Reverse Words in a String](./October/1st_Reverse_Words_in_a_String.md)
