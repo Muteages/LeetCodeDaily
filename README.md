@@ -1,5 +1,9 @@
 # LeetCode Daily Challenge
 
+## December
+
+[1st, Dec - Check If Two String Arrays are Equivalent](./December/1st_Check_If_Two_String_Arrays_are_Equivalent.md)
+
 ## November
 
 [1st, Nov - Find Mode in Binary Search Tree](./November/1st_Find_Mode_in_Binary_Search_Tree.md)
