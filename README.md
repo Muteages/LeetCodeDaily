@@ -2,6 +2,8 @@
 
 ## December
 
+[3rd, Dec - Minimum Time Visiting All Points](./December/3rd_Minimum_Time_Visiting_All_Points.md)
+
 [2nd, Dec - Find Words That Can Be Formed by Characters](./December/2nd_Find_Words_That_Can_Be_Formed_by_Characters.md)
 
 [1st, Dec - Check If Two String Arrays are Equivalent](./December/1st_Check_If_Two_String_Arrays_are_Equivalent.md)
