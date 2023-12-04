@@ -2,6 +2,8 @@
 
 ## December
 
+[4th, Dec - Largest 3 Same Digit Number in String](./December/4th_Largest_3_Same_Digit_Number_in_String.md)
+
 [3rd, Dec - Minimum Time Visiting All Points](./December/3rd_Minimum_Time_Visiting_All_Points.md)
 
 [2nd, Dec - Find Words That Can Be Formed by Characters](./December/2nd_Find_Words_That_Can_Be_Formed_by_Characters.md)
