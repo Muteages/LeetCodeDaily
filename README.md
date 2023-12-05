@@ -2,6 +2,8 @@
 
 ## December
 
+[5th, Dec - Count of Matches in Tournament](./December/5th_Count_of_Matches_in_Tournament.md)
+
 [4th, Dec - Largest 3 Same Digit Number in String](./December/4th_Largest_3_Same_Digit_Number_in_String.md)
 
 [3rd, Dec - Minimum Time Visiting All Points](./December/3rd_Minimum_Time_Visiting_All_Points.md)
