@@ -2,6 +2,8 @@
 
 ## December
 
+[6th, Dec - Calculate Money in Leetcode Bank](./December/6th_Calculate_Money_in_Leetcode_Bank.md)
+
 [5th, Dec - Count of Matches in Tournament](./December/5th_Count_of_Matches_in_Tournament.md)
 
 [4th, Dec - Largest 3 Same Digit Number in String](./December/4th_Largest_3_Same_Digit_Number_in_String.md)
