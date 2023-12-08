@@ -2,6 +2,8 @@
 
 ## December
 
+[8th, Dec - Construct String from Binary Tree](./December/8th_Construct_String_from_Binary_Tree.md)
+
 [7th, Dec - Largest Odd Number in String](./December/7th_Largest_Odd_Number_in_String.md)
 
 [6th, Dec - Calculate Money in Leetcode Bank](./December/6th_Calculate_Money_in_Leetcode_Bank.md)
