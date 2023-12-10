@@ -2,6 +2,8 @@
 
 ## December
 
+[10th, Dec - Transpose Matrix](./December/10th_Transpose_Matrix.md)
+
 [9th, Dec - Binary Tree Traversal](./December/9th_Binary_Tree_Traversal.md)
 
 [8th, Dec - Construct String from Binary Tree](./December/8th_Construct_String_from_Binary_Tree.md)
