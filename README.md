@@ -2,6 +2,8 @@
 
 ## December
 
+[11st, Dec - Element Appearing More Than 25% In Sorted Array](./December/11st_Element_Appearing_More_Than_25_in_Sorted_Array.md)
+
 [10th, Dec - Transpose Matrix](./December/10th_Transpose_Matrix.md)
 
 [9th, Dec - Binary Tree Traversal](./December/9th_Binary_Tree_Traversal.md)
