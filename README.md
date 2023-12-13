@@ -2,6 +2,8 @@
 
 ## December
 
+[13rd, Dec - Special Positions in a Binary Matrix](./December/13rd_Special_Positions_in_a_Binary_Matrix.md)
+
 [12nd, Dec - Maximum Product of Two Elements in an Array](./December/12nd_Maximum_Product_of_Two_Elements_in_an_Array.md)
 
 [11st, Dec - Element Appearing More Than 25% In Sorted Array](./December/11st_Element_Appearing_More_Than_25_in_Sorted_Array.md)
