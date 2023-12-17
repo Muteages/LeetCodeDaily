@@ -2,6 +2,8 @@
 
 ## December
 
+[17th, Dec - Design a Food Rating System](./December/17th_Design_a_Food_Rating_System.md)
+
 [16th, Dec - Valid Anagram](./December/16th_Valid_Anagram.md)
 
 [15th, Dec - Destination City](./December/15th_Destination_City.md)
