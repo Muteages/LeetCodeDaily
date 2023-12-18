@@ -2,6 +2,8 @@
 
 ## December
 
+[18th, Dec - Maximum Product Difference Between Two Pairs](./December/18th_Maximum_Product_Difference_Between_Two_Pairs.md)
+
 [17th, Dec - Design a Food Rating System](./December/17th_Design_a_Food_Rating_System.md)
 
 [16th, Dec - Valid Anagram](./December/16th_Valid_Anagram.md)
