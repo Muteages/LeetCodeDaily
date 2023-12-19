@@ -2,6 +2,8 @@
 
 ## December
 
+[19th, Dec - Image Smoother](./December/19th_Image_Smoother.md)
+
 [18th, Dec - Maximum Product Difference Between Two Pairs](./December/18th_Maximum_Product_Difference_Between_Two_Pairs.md)
 
 [17th, Dec - Design a Food Rating System](./December/17th_Design_a_Food_Rating_System.md)
