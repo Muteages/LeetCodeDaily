@@ -2,6 +2,8 @@
 
 ## December
 
+[20th, Dec - Buy two chocolates](./December/20th_Buy_Two_Chocolates.md)
+
 [19th, Dec - Image Smoother](./December/19th_Image_Smoother.md)
 
 [18th, Dec - Maximum Product Difference Between Two Pairs](./December/18th_Maximum_Product_Difference_Between_Two_Pairs.md)
