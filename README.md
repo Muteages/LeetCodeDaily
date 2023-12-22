@@ -2,6 +2,8 @@
 
 ## December
 
+[22nd, Dec - Maximum Score After Splitting a String](./December/22nd_Maximum_Score_After_Splitting_a_String.md)
+
 [21st, Dec - Widest Vertical Area Between Two Points Containing No Points](./December/21st_Widest_Vertical_Area_Between_Two_Points_Cotaining_No_Points.md)
 
 [20th, Dec - Buy two chocolates](./December/20th_Buy_Two_Chocolates.md)
