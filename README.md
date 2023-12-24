@@ -2,6 +2,8 @@
 
 ## December
 
+[24th, Dec - Minimum Changes To Make Alternating Binary String](./December/24th_Minimum_Changes_to_Make_Alternating_Binary_String.md)
+
 [23rd, Dec - Path Crossing](./December/23rd_Path_Crossing.md)
 
 [22nd, Dec - Maximum Score After Splitting a String](./December/22nd_Maximum_Score_After_Splitting_a_String.md)
