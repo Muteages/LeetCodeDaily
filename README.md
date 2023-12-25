@@ -2,6 +2,8 @@
 
 ## December
 
+[25th, Dec - Decode Ways](./December/25th_Decode_Ways.md)
+
 [24th, Dec - Minimum Changes To Make Alternating Binary String](./December/24th_Minimum_Changes_to_Make_Alternating_Binary_String.md)
 
 [23rd, Dec - Path Crossing](./December/23rd_Path_Crossing.md)
