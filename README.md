@@ -2,6 +2,8 @@
 
 ## December
 
+[30th, Dec - Redistribute Characters to Make All Strings Equal](./December/30th_Redistribute_Characters_to_Make_All_Strings_Equal.md)
+
 [27th, Dec - Minimum Time to Mkae Rope Colourful](./December/27th_Minimum_Time_to_Make_Rope_Colorful.md)
 
 [26th, Dec - Number of Dice Rolls With Target Sum](./December/26th_Number_of_Dice_Rolls_with_Target_Sum.md)
