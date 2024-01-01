@@ -1,5 +1,13 @@
 # LeetCode Daily Challenge
 
+## 2024
+
+## January
+
+[1st, Jan - Assign Cookies](./January/1st_Assign%20Cookies.md)
+
+## 2023
+
 ## December
 
 [30th, Dec - Redistribute Characters to Make All Strings Equal](./December/30th_Redistribute_Characters_to_Make_All_Strings_Equal.md)
