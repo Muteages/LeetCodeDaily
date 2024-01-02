@@ -4,6 +4,8 @@
 
 ## January
 
+[2nd, Jan - Convert an Array Into a 2D Array with Conditions](./January/2nd_Convert_an_Array_Into_a_2D_Array_With_Conditions.md)
+
 [1st, Jan - Assign Cookies](./January/1st_Assign%20Cookies.md)
 
 ## 2023
