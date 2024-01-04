@@ -4,6 +4,8 @@
 
 ## January
 
+[4th, Jan - Minimum Number of Operations to Make Array Empty](./January/4th_Minimum_Number_of_Operations_to_Make_Array_Empty.md)
+
 [3rd, Jan - Number of Laser Beams in a Bank](./January/3rd_Number_of_Laser_Beams_in_a_Bank.md)
 
 [2nd, Jan - Convert an Array Into a 2D Array with Conditions](./January/2nd_Convert_an_Array_Into_a_2D_Array_With_Conditions.md)
