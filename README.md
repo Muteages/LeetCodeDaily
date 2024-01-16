@@ -4,6 +4,8 @@
 
 ## January
 
+[16th, Jan - Insert Delete GetRandom O(1)](./January/16th_Insert_Delete_GetRandom_O(1).md)
+
 [15th, Jan - Find Players With Zero or One Losses](./January/15th_Find_Players_with_Zero_or_One_Losses.md)
 
 [4th, Jan - Minimum Number of Operations to Make Array Empty](./January/4th_Minimum_Number_of_Operations_to_Make_Array_Empty.md)
