@@ -4,6 +4,8 @@
 
 ## January
 
+[17th, Jan - Unique Number of Occurrences](./January/17th_Unique_Number_of_Occurrences.md)
+
 [16th, Jan - Insert Delete GetRandom O(1)](./January/16th_Insert_Delete_GetRandom_O(1).md)
 
 [15th, Jan - Find Players With Zero or One Losses](./January/15th_Find_Players_with_Zero_or_One_Losses.md)
