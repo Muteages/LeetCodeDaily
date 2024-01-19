@@ -4,6 +4,8 @@
 
 ## January
 
+[19th, Jan - Minimum Falling Path Sum](./January/19th_Minimum_Falling_Path_Sum.md)
+
 [17th, Jan - Unique Number of Occurrences](./January/17th_Unique_Number_of_Occurrences.md)
 
 [16th, Jan - Insert Delete GetRandom O(1)](./January/16th_Insert_Delete_GetRandom_O(1).md)
