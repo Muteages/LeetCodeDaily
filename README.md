@@ -4,6 +4,8 @@
 
 ## January
 
+[20th, Jan - Sum of Subarray Minimums](./January/20th_Sum_of_Subarray_Minimums.md)
+
 [19th, Jan - Minimum Falling Path Sum](./January/19th_Minimum_Falling_Path_Sum.md)
 
 [17th, Jan - Unique Number of Occurrences](./January/17th_Unique_Number_of_Occurrences.md)
