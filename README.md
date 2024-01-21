@@ -4,6 +4,8 @@
 
 ## January
 
+[21st, Jan - House Robber](./January/21st_House_Robber.md)
+
 [20th, Jan - Sum of Subarray Minimums](./January/20th_Sum_of_Subarray_Minimums.md)
 
 [19th, Jan - Minimum Falling Path Sum](./January/19th_Minimum_Falling_Path_Sum.md)
