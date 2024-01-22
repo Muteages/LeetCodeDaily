@@ -4,6 +4,8 @@
 
 ## January
 
+[22nd, Jan - Set Mismatch](./January/22nd_Set_Mismatch.md)
+
 [21st, Jan - House Robber](./January/21st_House_Robber.md)
 
 [20th, Jan - Sum of Subarray Minimums](./January/20th_Sum_of_Subarray_Minimums.md)
