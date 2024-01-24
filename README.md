@@ -4,6 +4,8 @@
 
 ## January
 
+[24th, Jan - Pseudo Palindromic Paths in a Binary Tree](./January/24th_Pseudo_Palindromic_Paths_in_a_Binary_Tree.md)
+
 [22nd, Jan - Set Mismatch](./January/22nd_Set_Mismatch.md)
 
 [21st, Jan - House Robber](./January/21st_House_Robber.md)
