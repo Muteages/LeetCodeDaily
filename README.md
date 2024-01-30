@@ -4,6 +4,8 @@
 
 ## January
 
+[30th, Jan - Evaluate Reverse Polish Notation](./January/30th_Evaluate_Reverse_Polish_Notation.md)
+
 [29th, Jan - Implement Queue using Stacks](./January/29th_Implement_Queue_Using_Stacks.md)
 
 [24th, Jan - Pseudo Palindromic Paths in a Binary Tree](./January/24th_Pseudo_Palindromic_Paths_in_a_Binary_Tree.md)
