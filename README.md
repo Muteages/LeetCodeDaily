@@ -4,6 +4,8 @@
 
 ## January
 
+[31st, Jan - Daily Temperatures](./January/31st_Daily_Temperatures.md)
+
 [30th, Jan - Evaluate Reverse Polish Notation](./January/30th_Evaluate_Reverse_Polish_Notation.md)
 
 [29th, Jan - Implement Queue using Stacks](./January/29th_Implement_Queue_Using_Stacks.md)
