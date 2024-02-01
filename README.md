@@ -2,6 +2,10 @@
 
 ## 2024
 
+## Feburary 
+
+[1st, Feb - Divide Arrays into Arrays with Max Difference](./February/1st_Divide_Arrays_into_Arrays_with_Max_Difference.md)
+
 ## January
 
 [31st, Jan - Daily Temperatures](./January/31st_Daily_Temperatures.md)
