@@ -4,6 +4,8 @@
 
 ## Feburary 
 
+[2nd, Feb - Sequential Digits](./February/2nd_Sequential_Digits.md)
+
 [1st, Feb - Divide Arrays into Arrays with Max Difference](./February/1st_Divide_Arrays_into_Arrays_with_Max_Difference.md)
 
 ## January
