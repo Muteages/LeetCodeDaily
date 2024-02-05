@@ -4,42 +4,27 @@
 
 ## Feburary 
 
+[5th, Feb - First Unique Character in a String](./February/5th_First_Unique_Character_in_a_String.md)
 [3rd, Feb - Partition Array for Maximum Sum](./February/3rd_Partition_Array_for_Maximum_Sum.md)
-
 [2nd, Feb - Sequential Digits](./February/2nd_Sequential_Digits.md)
-
 [1st, Feb - Divide Arrays into Arrays with Max Difference](./February/1st_Divide_Arrays_into_Arrays_with_Max_Difference.md)
 
 ## January
 
 [31st, Jan - Daily Temperatures](./January/31st_Daily_Temperatures.md)
-
 [30th, Jan - Evaluate Reverse Polish Notation](./January/30th_Evaluate_Reverse_Polish_Notation.md)
-
 [29th, Jan - Implement Queue using Stacks](./January/29th_Implement_Queue_Using_Stacks.md)
-
 [24th, Jan - Pseudo Palindromic Paths in a Binary Tree](./January/24th_Pseudo_Palindromic_Paths_in_a_Binary_Tree.md)
-
 [22nd, Jan - Set Mismatch](./January/22nd_Set_Mismatch.md)
-
 [21st, Jan - House Robber](./January/21st_House_Robber.md)
-
 [20th, Jan - Sum of Subarray Minimums](./January/20th_Sum_of_Subarray_Minimums.md)
-
 [19th, Jan - Minimum Falling Path Sum](./January/19th_Minimum_Falling_Path_Sum.md)
-
 [17th, Jan - Unique Number of Occurrences](./January/17th_Unique_Number_of_Occurrences.md)
-
 [16th, Jan - Insert Delete GetRandom O(1)](./January/16th_Insert_Delete_GetRandom_O(1).md)
-
 [15th, Jan - Find Players With Zero or One Losses](./January/15th_Find_Players_with_Zero_or_One_Losses.md)
-
 [4th, Jan - Minimum Number of Operations to Make Array Empty](./January/4th_Minimum_Number_of_Operations_to_Make_Array_Empty.md)
-
 [3rd, Jan - Number of Laser Beams in a Bank](./January/3rd_Number_of_Laser_Beams_in_a_Bank.md)
-
 [2nd, Jan - Convert an Array Into a 2D Array with Conditions](./January/2nd_Convert_an_Array_Into_a_2D_Array_With_Conditions.md)
-
 [1st, Jan - Assign Cookies](./January/1st_Assign%20Cookies.md)
 
 ## 2023
