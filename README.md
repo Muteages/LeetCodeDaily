@@ -4,6 +4,8 @@
 
 ## Feburary 
 
+[6ht, Feb - Group Anagrams](./February/6th_Group_Anagrams.md)
+
 [5th, Feb - First Unique Character in a String](./February/5th_First_Unique_Character_in_a_String.md)
 
 [3rd, Feb - Partition Array for Maximum Sum](./February/3rd_Partition_Array_for_Maximum_Sum.md)
