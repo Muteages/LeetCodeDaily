@@ -4,6 +4,8 @@
 
 ## Feburary 
 
+[6th, Feb - (extra)Insertion Sort List](./February/6th_(extra)Insertion_Sort_List.md)
+
 [6ht, Feb - Group Anagrams](./February/6th_Group_Anagrams.md)
 
 [5th, Feb - First Unique Character in a String](./February/5th_First_Unique_Character_in_a_String.md)
