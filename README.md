@@ -4,6 +4,8 @@
 
 ## Feburary 
 
+[7th, Feb - Sort Characters By Frequency](./February/7th_Sort_Characters_By_Frequency.md)
+
 [6th, Feb - (extra)Insertion Sort List](./February/6th_(extra)Insertion_Sort_List.md)
 
 [6ht, Feb - Group Anagrams](./February/6th_Group_Anagrams.md)
