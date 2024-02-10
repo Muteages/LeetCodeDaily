@@ -4,6 +4,8 @@
 
 ## Feburary 
 
+[10th, Feb - Palindromic Substrings](./February/10th_Palindrmoic_Substrings.md)
+
 [9th, Feb - Largest Divisible Subset](./February/9th_Largest_Divisible_Subset.md)
 
 [7th, Feb - Sort Characters By Frequency](./February/7th_Sort_Characters_By_Frequency.md)
