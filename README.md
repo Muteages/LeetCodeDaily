@@ -4,6 +4,8 @@
 
 ## Feburary 
 
+[12nd, Feb - Majority Element](./February/12th_Majority_Element.md)
+
 [10th, Feb - Palindromic Substrings](./February/10th_Palindrmoic_Substrings.md)
 
 [9th, Feb - Largest Divisible Subset](./February/9th_Largest_Divisible_Subset.md)
