@@ -4,6 +4,8 @@
 
 ## Feburary 
 
+[13rd, Feb - Find First Palindromic String in the Array](./February/13th_Find_First_Palindromic_String_in_a_Array.md)
+
 [12nd, Feb - Majority Element](./February/12th_Majority_Element.md)
 
 [10th, Feb - Palindromic Substrings](./February/10th_Palindrmoic_Substrings.md)
