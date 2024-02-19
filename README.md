@@ -4,6 +4,8 @@
 
 ## Feburary 
 
+[19th, Feb - Power of Two](./February/19th_Power_of_Two.md)
+
 [18th, Feb - Meeting Rooms III](./February/18th_Meeting_Rooms_III.md)
 
 [17th, Feb - Furthest Building You Can Reach](./February/17th_Furthest_Building_You_Can_Reach.md)
