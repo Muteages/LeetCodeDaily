@@ -4,6 +4,8 @@
 
 ## Feburary 
 
+[21st, Feb - Bitwise AND of Numbers Range](./February/21st_Bitwise_AND_of_Numbers_Range.md)
+
 [20th, Feb - Missing Number](./February/20th_Missing_Number.md)
 
 [19th, Feb - Power of Two](./February/19th_Power_of_Two.md)
