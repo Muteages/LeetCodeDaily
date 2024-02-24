@@ -4,6 +4,8 @@
 
 ## Feburary 
 
+[24th, Feb - Find All People With Secret](./February/24th_Find_All_People_with_Secret.md)
+
 [23rd, Feb - Cheapest Flights Within K Stops](./February/23rd_Cheapest_Flights_within_K_Stops.md)
 
 [22nd, Feb - Find the Town Judge](./February/22nd_Find_the_Town_Judge.md)
