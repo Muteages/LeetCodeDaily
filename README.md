@@ -4,6 +4,8 @@
 
 ## Feburary 
 
+[27th, Feb - Diameter of Binary Tree](./February/27th_Diameter_of_Binary_Tree.md)
+
 [26th, Feb - Same Tree](./February/26th_Same_Tree.md)
 
 [24th, Feb - Find All People With Secret](./February/24th_Find_All_People_with_Secret.md)
