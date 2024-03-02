@@ -2,6 +2,12 @@
 
 ## 2024
 
+## March
+
+[2nd, Mar - Squares of a Sorted Array](./March/2nd_Squares_of_a_Sorted_Array.md)
+
+[1st, Mar - Maximum Odd Binary Number](./March/1st_Maximum_Odd_Binary_Number.md)
+
 ## Feburary 
 
 [29th, Feb - Even Odd Tree](./February/29_Even_Odd_Tree.md)
