@@ -4,6 +4,8 @@
 
 ## March
 
+[3rd, Mar - Remove Nth Node from End of List](./March/3rd_Remove_Nth_Node_From_End_of_List.md)
+
 [2nd, Mar - Squares of a Sorted Array](./March/2nd_Squares_of_a_Sorted_Array.md)
 
 [1st, Mar - Maximum Odd Binary Number](./March/1st_Maximum_Odd_Binary_Number.md)
