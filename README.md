@@ -4,6 +4,8 @@
 
 ## March
 
+[8th, Mar - Count Elements with Maximum Frequency](./March/8th_Count_Elements_with_Maximum_Frequency.md)
+
 [7th, Mar - Middle of the Linked List](./March/7th_Middle_of_the_Linked_List.md)
 
 [6th, Mar - Linked List Cycle](./March/6th_Linked_List_Cycle.md)
