@@ -4,6 +4,8 @@
 
 ## March
 
+[10th, Mar - Intersection of Two Arrays](./March/10th_Intersection_of_Two_Arrays.md)
+
 [9th, Mar - Minimum Common Value](./March/9th_Minimum_Common_Value.md)
 
 [8th, Mar - Count Elements with Maximum Frequency](./March/8th_Count_Elements_with_Maximum_Frequency.md)
