@@ -4,6 +4,8 @@
 
 ## March
 
+[12nd, Mar - Remove Zero Sum Consecutive Nodes from Linked List](./March/12nd_Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.md)
+
 [11st, Mar - Custom Sort String](./March/11st_Custom_Sort_String.md)
 
 [10th, Mar - Intersection of Two Arrays](./March/10th_Intersection_of_Two_Arrays.md)
