@@ -4,6 +4,8 @@
 
 ## March
 
+[16th, Mar - Contiguous Array](./March/16th_Contiguous_Array.md)
+
 [15th, Mar - Product of Array Except Self](./March/15th_Product_of_Array_Except_Self.md)
 
 [14th, Mar - Binary Subarrays with Sum](./March/14th_Binary_Subarrays_with_Sum.md)
