@@ -4,6 +4,10 @@
 
 ## March
 
+[25th, Mar - Find All Duplicates in a Array](./March/25th_Find_All_Duplicates_in_a_Array.md)
+
+[24th, Mar - Find the Duplicate Number](./March/24th_Find_the_Duplicate_Number.md)
+
 [23rd, Mar - Reorder List](./March/23rd_Reorder_List.md)
 
 [22nd, Mar - Palindrome Linked List](./March/22nd_Palindrome_Linked_List.md)

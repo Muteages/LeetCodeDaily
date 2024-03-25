@@ -52,7 +52,7 @@ There is only one repeated number in nums, return this repeated number.
     }
 ```
 
-## Approach 2
+## Approach 3
 
 Tortoise and Hare algorithm
 
