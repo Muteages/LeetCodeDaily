@@ -4,6 +4,8 @@
 
 ## March
 
+[30th, Mar - Subarrays with K Different Integers](./March/30th_Subarrays_with_K_Different_Integers.md)
+
 [29th, Mar - Count Subarrays Where Max Element Appears at Least K Times](./March/29th_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Time.md)
 
 [28th, Mar - Length of Longest Subarray with at Most K Frequency](./March/28th_Length_of_Longest_Subarray_with_at_Most_K_Frequency.md)
