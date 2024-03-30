@@ -59,3 +59,34 @@ Sliding Window
         return ans;
     }
 ```
+
+## Approach 3
+
+Total Subarrays count substract atmost k-1 subarrays with max element
+
+``` C++
+    long long atmost(vector<int>& nums, int k, int MAX)
+    {
+        long long cnt = 0;
+        int left = 0, right = 0;
+        int maxNum = 0;
+        while (right < nums.size())
+        {
+            maxNum += nums[right] == MAX;
+            while (left <= right && maxNum > k)
+            {
+                maxNum -= nums[left] == MAX;
+                left++;
+            }
+            cnt += (long long)right - left + 1;
+            right++;
+        }
+        return cnt;
+    }
+    long long countSubarrays(vector<int>& nums, int k) {
+        const int MAX = *max_element(nums.begin(), nums.end());
+        int n = nums.size();
+        long long total = (long long)n * (n + 1) / 2;
+        return total - atmost(nums, k - 1, MAX);
+    }
+```
