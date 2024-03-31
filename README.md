@@ -4,6 +4,8 @@
 
 ## March
 
+[31st, Mar - Count Subarrays with Fixed Bounds](./March/31st_Count_Subarrays_with_Fixed_Bounds.md)
+
 [30th, Mar - Subarrays with K Different Integers](./March/30th_Subarrays_with_K_Different_Integers.md)
 
 [29th, Mar - Count Subarrays Where Max Element Appears at Least K Times](./March/29th_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Time.md)
