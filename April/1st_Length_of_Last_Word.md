@@ -2,7 +2,7 @@
 
 Given a string s consisting of words and spaces, return the length of the last word in the string.
 
-## Approach 
+## Approach 1
 
 ``` C++
     int lengthOfLastWord(string s) {
@@ -19,5 +19,16 @@ Given a string s consisting of words and spaces, return the length of the last w
             idx--;
         }
         return length;
+    }
+```
+
+## Approach 2
+
+Utilise std::string built-in functions.
+``` C++
+    int lengthOfLastWord(string s) {
+        size_t right = s.find_last_not_of(' ');
+        size_t left = s.find_last_of(' ', right);
+        return left == std::string::npos ? right + 1 : right - left;
     }
 ```
