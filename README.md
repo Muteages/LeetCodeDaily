@@ -2,6 +2,10 @@
 
 ## 2024
 
+## April
+
+[1st, Apr - Length of Last Word](./April/1st_Length_of_Last_Word.md)
+
 ## March
 
 [31st, Mar - Count Subarrays with Fixed Bounds](./March/31st_Count_Subarrays_with_Fixed_Bounds.md)
