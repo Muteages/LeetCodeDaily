@@ -4,6 +4,8 @@
 
 ## April
 
+[3rd, Apr - Word Search](./April/3rd_Word_Search.md)
+
 [2nd, Apr - Isomorphic Strings](./April/2nd_Isomorphic_Strings.md)
 
 [1st, Apr - Length of Last Word](./April/1st_Length_of_Last_Word.md)
