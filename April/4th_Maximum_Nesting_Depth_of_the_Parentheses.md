@@ -22,18 +22,18 @@ Given a VPS represented as string s, return the nesting depth of s.
 
 ``` C++
     int maxDepth(string s) {
-        int bracktesCnt = 0;
+        int bracketsCnt = 0;
         int depth = 0;
         for (const char& ch : s)
         {
             if (ch == '(')
             {
-                bracktesCnt++;
+                bracketsCnt++;
             }
             else if (ch == ')')
             {
-                depth = std::max(depth, bracktesCnt);
-                bracktesCnt--;
+                depth = std::max(depth, bracketsCnt);
+                bracketsCnt--;
             }
         }
         return depth;
