@@ -4,6 +4,8 @@
 
 ## April
 
+[5th, Apr - Make the String Great](./April/5th_Make_the_String_Great.md)
+
 [4th, Apr - Maximum Nesting Depth of the Parentheses](./April/4th_Maximum_Nesting_Depth_of_the_Parentheses.md)
 
 [3rd, Apr - Word Search](./April/3rd_Word_Search.md)
