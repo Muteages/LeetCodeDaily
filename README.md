@@ -4,6 +4,8 @@
 
 ## April
 
+[6th, Apr - Minimum Remove to Make Valid Parentheses](./April/6th_Minimum_Remove_to_Make_Valid_Parentheses.md)
+
 [5th, Apr - Make the String Great](./April/5th_Make_the_String_Great.md)
 
 [4th, Apr - Maximum Nesting Depth of the Parentheses](./April/4th_Maximum_Nesting_Depth_of_the_Parentheses.md)
