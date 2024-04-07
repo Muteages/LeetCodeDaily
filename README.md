@@ -4,6 +4,8 @@
 
 ## April
 
+[7th, Apr - Valid Parenthesis String](./April/7th_Valid_Parenthesis_String.md)
+
 [6th, Apr - Minimum Remove to Make Valid Parentheses](./April/6th_Minimum_Remove_to_Make_Valid_Parentheses.md)
 
 [5th, Apr - Make the String Great](./April/5th_Make_the_String_Great.md)
