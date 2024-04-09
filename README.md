@@ -4,6 +4,10 @@
 
 ## April
 
+[9th, Apr - Time Needed to Buy Tickets](./April/9th_Time_Needed_to_Buy_Tickets.md)
+
+[8th, Apr - Number of Students Unable to Eat Lunch](./April/8th_Number_of_Students_Unable_to_Eat_Lunch.md)
+
 [7th, Apr - Valid Parenthesis String](./April/7th_Valid_Parenthesis_String.md)
 
 [6th, Apr - Minimum Remove to Make Valid Parentheses](./April/6th_Minimum_Remove_to_Make_Valid_Parentheses.md)
