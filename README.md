@@ -4,6 +4,8 @@
 
 ## April
 
+[10th, Apr - Reveal Cards In Increasing Order](./April/10th_Reveal_Cards_in_Increasing_Order.md)
+
 [9th, Apr - Time Needed to Buy Tickets](./April/9th_Time_Needed_to_Buy_Tickets.md)
 
 [8th, Apr - Number of Students Unable to Eat Lunch](./April/8th_Number_of_Students_Unable_to_Eat_Lunch.md)
