@@ -4,6 +4,8 @@
 
 ## April
 
+[11st, Apr - Remove K Digits](./April/11st_Remove_K_Digits.md)
+
 [10th, Apr - Reveal Cards In Increasing Order](./April/10th_Reveal_Cards_in_Increasing_Order.md)
 
 [9th, Apr - Time Needed to Buy Tickets](./April/9th_Time_Needed_to_Buy_Tickets.md)
