@@ -4,6 +4,8 @@
 
 ## April
 
+[12nd, Apr - Trapping Rain Water](./April/12nd_Trapping_Rain_Water.md)
+
 [11st, Apr - Remove K Digits](./April/11st_Remove_K_Digits.md)
 
 [10th, Apr - Reveal Cards In Increasing Order](./April/10th_Reveal_Cards_in_Increasing_Order.md)
