@@ -4,6 +4,8 @@
 
 ## April
 
+[14th, Apr - Sum of Left Leaves](./April/14th_Sum_of_Left_Leaves.md)
+
 [12nd, Apr - Trapping Rain Water](./April/12nd_Trapping_Rain_Water.md)
 
 [11st, Apr - Remove K Digits](./April/11st_Remove_K_Digits.md)
