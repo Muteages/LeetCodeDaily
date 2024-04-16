@@ -4,6 +4,8 @@
 
 ## April
 
+[16th, Apr - Add One Row to Tree](./April/16th_Add_One_Row_to_Tree.md)
+
 [15th, Apr - Sum Root to Leaf Numbers](./April/15th_Sum_Root_to_Leaf_NUmbers.md)
 
 [14th, Apr - Sum of Left Leaves](./April/14th_Sum_of_Left_Leaves.md)
