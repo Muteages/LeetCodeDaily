@@ -77,7 +77,7 @@ Iterative dfs
 
 ``` C++
     std::vector<std::string> strings;
-    void dfs(TreeNode* node, std::string curr)
+    void dfs(TreeNode* node, std::string& curr)
     {
         if (!node)
         {
@@ -92,6 +92,7 @@ Iterative dfs
         }
         dfs(node->left, curr);
         dfs(node->right, curr);
+        curr.pop_back();
     }
 
     string smallestFromLeaf(TreeNode* root) {
