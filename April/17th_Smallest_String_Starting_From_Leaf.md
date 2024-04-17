@@ -72,3 +72,33 @@ Iterative dfs
         return ans;
     }
 ```
+
+## Approach 3
+
+``` C++
+    std::vector<std::string> strings;
+    void dfs(TreeNode* node, std::string curr)
+    {
+        if (!node)
+        {
+            return;
+        }
+        curr += node->val + 'a';
+        if (!node->left && !node->right)
+        {
+            std::string rev = curr;
+            std::reverse(rev.begin(), rev.end());
+            strings.emplace_back(std::move(rev));
+        }
+        dfs(node->left, curr);
+        dfs(node->right, curr);
+    }
+
+    string smallestFromLeaf(TreeNode* root) {
+        strings.clear();
+        std::string curr = "";
+        dfs(root, curr);
+        std::sort(strings.begin(), strings.end());
+        return strings[0];
+    }
+```
