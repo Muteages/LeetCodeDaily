@@ -4,6 +4,8 @@
 
 ## April
 
+[17th, Apr - Smallest String Starting From Leaf](./April/17th_Smallest_String_Starting_From_Leaf.md)
+
 [16th, Apr - Add One Row to Tree](./April/16th_Add_One_Row_to_Tree.md)
 
 [15th, Apr - Sum Root to Leaf Numbers](./April/15th_Sum_Root_to_Leaf_NUmbers.md)
