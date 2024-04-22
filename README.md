@@ -4,6 +4,8 @@
 
 ## April
 
+[22nd, Apr - Open the Lock](./April/22nd_Open_the_Lock.md)
+
 [21st, Apr - Find if Path Exists in Graph](./April/21st_Find_if_Path_Exists_in_Graph.md)
 
 [20th, Apr - Find All Groups of Farmland](./April/20th_Find_all_Groups_of_Farmland.md)
