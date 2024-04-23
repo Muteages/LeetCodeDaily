@@ -4,6 +4,8 @@
 
 ## April
 
+[23rd, Apr - Minimum Height Trees](./April/23rd_Minimum_Height_Trees.md)
+
 [22nd, Apr - Open the Lock](./April/22nd_Open_the_Lock.md)
 
 [21st, Apr - Find if Path Exists in Graph](./April/21st_Find_if_Path_Exists_in_Graph.md)
