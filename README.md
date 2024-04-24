@@ -4,6 +4,8 @@
 
 ## April
 
+[24th, Apr - N-th Tribonacci Number](./April/24th_N_th_Tribonacci_Number.md)
+
 [23rd, Apr - Minimum Height Trees](./April/23rd_Minimum_Height_Trees.md)
 
 [22nd, Apr - Open the Lock](./April/22nd_Open_the_Lock.md)
