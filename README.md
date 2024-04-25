@@ -4,6 +4,8 @@
 
 ## April
 
+[25th, Apr - Longest Ideal Subsequence](./April/25th_Longest_Ideal_Subsequence.md)
+
 [24th, Apr - N-th Tribonacci Number](./April/24th_N_th_Tribonacci_Number.md)
 
 [23rd, Apr - Minimum Height Trees](./April/23rd_Minimum_Height_Trees.md)
