@@ -4,6 +4,8 @@
 
 ## April
 
+[29th, Apr - Minimum Number of Operations to Make Array XOR Equal to K](./April/29th_Minimum_Number_of_Operations_to_Make_Array_XOR_Equal_to_K.md)
+
 [28th, Apr - Sum of Distances in Tree](./April/28th_Sum_of_Distances_in_Tree.md)
 
 [26th, Apr - Minimum Falling Path Sum II](./April/26th_Minimum_Falling_Path_Sum_II.md)
