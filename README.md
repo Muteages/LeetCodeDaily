@@ -4,6 +4,8 @@
 
 ## May
 
+[6th, May - Remove Nodes From Linked List](./May/6th_Remove_Nodes_From_Linked_List.md)
+
 [5th, May - Delete Node in a Linked List](./May/5th_Delete_Node_in_a_Linked_List.md)
 
 [4th, May - Boats to Save People ](./May/4th_Boats_to_Save_People.md)
