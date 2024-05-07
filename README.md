@@ -4,6 +4,8 @@
 
 ## May
 
+[7th, May - Double a Number Represented as a Linked List](./May/7th_Double_a_Number_Represented_as_a_Linked_List.md)
+
 [6th, May - Remove Nodes From Linked List](./May/6th_Remove_Nodes_From_Linked_List.md)
 
 [5th, May - Delete Node in a Linked List](./May/5th_Delete_Node_in_a_Linked_List.md)
