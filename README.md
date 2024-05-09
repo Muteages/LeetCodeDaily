@@ -4,6 +4,8 @@
 
 ## May
 
+[9th, May - Maximise Happiness of Selected Children](./May/9th_Maximise_Happiness_of_Selected_Children.md)
+
 [8th, May - Relative Ranks](./May/8th_Relative_Ranks.md)
 
 [7th, May - Double a Number Represented as a Linked List](./May/7th_Double_a_Number_Represented_as_a_Linked_List.md)
