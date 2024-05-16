@@ -4,6 +4,8 @@
 
 ## May
 
+[16th, May - Evaluate Boolean Binary Tree](./May/16th_Evaluate_Boolean_Binary_Tree.md)
+
 [13th, May - Score After Flipping Matrix](./May/13th_Score_After_Flipping_Matrix.md)
 
 [10th, May - Kth Smallest Prime Fraction](./May/10th_K_th_Smallest_Prime_Fraction.md)
