@@ -4,6 +4,8 @@
 
 ## May
 
+[21st, May - Subsets](./May/21st_Subsets.md)
+
 [20th, May - Sum of All Subset XOR Totals](./May/20th_Sum_of_All_Subset_XOR_Totals.md)
 
 [16th, May - Evaluate Boolean Binary Tree](./May/16th_Evaluate_Boolean_Binary_Tree.md)
