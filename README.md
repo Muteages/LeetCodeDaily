@@ -4,6 +4,8 @@
 
 ## May
 
+[22nd, May - Palindrome Partitioning](./May/22nd_Palindrome_Partitioning.md)
+
 [21st, May - Subsets](./May/21st_Subsets.md)
 
 [20th, May - Sum of All Subset XOR Totals](./May/20th_Sum_of_All_Subset_XOR_Totals.md)
