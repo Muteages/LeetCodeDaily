@@ -4,6 +4,8 @@
 
 ## May
 
+[23rd, May -The Number of Beautiful Subsets](./May/23rd_The_Number_of_Beautiful_Subsets.md)
+
 [22nd, May - Palindrome Partitioning](./May/22nd_Palindrome_Partitioning.md)
 
 [21st, May - Subsets](./May/21st_Subsets.md)
