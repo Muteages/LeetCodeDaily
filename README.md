@@ -4,6 +4,8 @@
 
 ## May
 
+[24th, May - Maximum Score Words Formed by Letters](./May/24th_Maximum_Score_Words_Formed_by_Letters.md)
+
 [23rd, May -The Number of Beautiful Subsets](./May/23rd_The_Number_of_Beautiful_Subsets.md)
 
 [22nd, May - Palindrome Partitioning](./May/22nd_Palindrome_Partitioning.md)
