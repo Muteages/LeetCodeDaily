@@ -27,3 +27,4 @@ Return the boolean result of evaluating the root node.
         return root->val == 2 ? left | right : left & right;
     }
 ```
+
