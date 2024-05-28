@@ -4,6 +4,8 @@
 
 ## May
 
+[28th, May - Get Eaqual Substrings within Budget](./May/28th_Get_Eaqual_Substrings_within_Budget.md)
+
 [27th, May - Special Array with X Elements Greater Than or Eaqual X](./May/27th_Special_Array_with_X_elements_Greater_Than_or_Eaqual_X.md)
 
 [25th, May - Word Break II](./May/25th_Word_Break_II.md)
