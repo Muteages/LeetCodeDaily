@@ -4,6 +4,8 @@
 
 ## May
 
+[29th, May - Number of Steps to Reduce a Number in Binary Representation to One](./May/29th_Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One.md)
+
 [28th, May - Get Eaqual Substrings within Budget](./May/28th_Get_Eaqual_Substrings_within_Budget.md)
 
 [27th, May - Special Array with X Elements Greater Than or Eaqual X](./May/27th_Special_Array_with_X_elements_Greater_Than_or_Eaqual_X.md)
