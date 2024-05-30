@@ -4,6 +4,8 @@
 
 ## May
 
+[30th, May - Count Triplets That Can Form Two Arrays of Equal XOR](./May/30th_Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR.md)
+
 [29th, May - Number of Steps to Reduce a Number in Binary Representation to One](./May/29th_Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One.md)
 
 [28th, May - Get Eaqual Substrings within Budget](./May/28th_Get_Eaqual_Substrings_within_Budget.md)
