@@ -2,6 +2,10 @@
 
 ## 2024
 
+## June
+
+[1st, June - Score of a String](./June/1st_Score_of_a_String.md)
+
 ## May
 
 [31st, May - Single Number III](./May/31st_Single_Number_III.md)
