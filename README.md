@@ -4,6 +4,8 @@
 
 ## June
 
+[2nd, June - Reverse String](./June/2nd_Reverse_String.md)
+
 [1st, June - Score of a String](./June/1st_Score_of_a_String.md)
 
 ## May
