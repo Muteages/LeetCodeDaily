@@ -4,6 +4,8 @@
 
 ## June
 
+[3rd, June - Append Characters to String to Make Subsequence](./June/3rd_Append_Characters_to_String_to_Make_Subsequence.md)
+
 [2nd, June - Reverse String](./June/2nd_Reverse_String.md)
 
 [1st, June - Score of a String](./June/1st_Score_of_a_String.md)
