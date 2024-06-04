@@ -4,6 +4,8 @@
 
 ## June
 
+[4th, June - Longest Palindrome](./June/4th_Longest_Palindrome.md)
+
 [3rd, June - Append Characters to String to Make Subsequence](./June/3rd_Append_Characters_to_String_to_Make_Subsequence.md)
 
 [2nd, June - Reverse String](./June/2nd_Reverse_String.md)
