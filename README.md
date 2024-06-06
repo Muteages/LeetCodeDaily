@@ -1,8 +1,12 @@
 # LeetCode Daily Challenge
 
+C++ and JavaScript
+
 ## 2024
 
 ## June
+
+[6th, June - Hand of Straights](./June/6th_Hand_of_Straights.md)
 
 [5th, June - Find Common Characters](./June/5th_Find_Common_Characters.md)
 
