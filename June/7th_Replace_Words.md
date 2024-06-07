@@ -149,3 +149,51 @@ Trie
         bool isEnd;
     };
 ```
+
+``` JavaScript
+class Trie {
+    constructor() {
+        this.children = {};
+        this.isEnd = false;
+    }
+
+    insert(word) {
+        let node = this;
+        for (let ch of word) {
+            if (!node.children[ch])
+            {
+                node.children[ch] = new Trie();
+            }
+            node = node.children[ch];
+        }
+        node.isEnd = true;
+    }
+
+    findPrefix(word) {
+        let node = this;
+        let prefix = '';
+        for (let ch of word) {
+            if (!node.children[ch]) {
+                return word;
+            }
+            prefix += ch;
+            if (node.children[ch].isEnd) {
+                return prefix;
+            }
+            node = node.children[ch];
+        }
+        return word;
+    }
+}
+
+var replaceWords = function(dictionary, sentence) {
+    let trie = new Trie();
+    for (let word of dictionary) {
+        trie.insert(word);
+    }
+
+    let words = sentence.split(' ');
+    let result = words.map(word => trie.findPrefix(word));
+    return result.join(' ');
+};
+```
