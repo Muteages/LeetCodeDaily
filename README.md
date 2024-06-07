@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## June
 
+[7th, June - Replace Words](./June/7th_Replace_Words.md)
+
 [6th, June - Hand of Straights](./June/6th_Hand_of_Straights.md)
 
 [5th, June - Find Common Characters](./June/5th_Find_Common_Characters.md)
