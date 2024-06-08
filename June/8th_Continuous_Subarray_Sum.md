@@ -42,6 +42,24 @@ Prefix
     }
 ```
 
+``` JavaScript
+var checkSubarraySum = function(nums, k) {
+    const n = nums.length;
+    let remList = new HashSet();
+    let prefix = 0, prev = 0;
+    for (let num of nums) {
+        prefix = (prefix + num) % k;
+        if (remList.has(prefix)) {
+            return true;
+        }
+        remList.add(prev);
+        prev = prefix;
+    }
+    return false;
+};
+```
+
+
 ## Approach 2
 
 Using Unordered set instead. Maintain a extra variable prev to postphone insert mod by 1 step, avoid the effect caused by '0' element.
