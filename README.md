@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## June
 
+[8th, June - Continuous Subarray Sum](./June/8th_Continuous_Subarray_Sum.md)
+
 [7th, June - Replace Words](./June/7th_Replace_Words.md)
 
 [6th, June - Hand of Straights](./June/6th_Hand_of_Straights.md)
