@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## June
 
+[9th, June - Subarray Sums Divisible by K](./June/9th_Subarray_Sums_Divisble_by_K.md)
+
 [8th, June - Continuous Subarray Sum](./June/8th_Continuous_Subarray_Sum.md)
 
 [7th, June - Replace Words](./June/7th_Replace_Words.md)
