@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## June
 
+[12nd, June - Sort Colours](./June/12nd_Sort_Colours.md)
+
 [11st, June - Relative Sort Array](./June/11st_Relative_Sort_Array.md)
 
 [10th, June - Height Checker](./June/10th_Height_Checker.md)
