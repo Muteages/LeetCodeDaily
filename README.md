@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## June
 
+[13rd, June - Minimum Number of Moves to Seat Everyone](./June/13rd_Minimum_Number_of_Moves_to_Seat_Everyone.md)
+
 [12nd, June - Sort Colours](./June/12nd_Sort_Colours.md)
 
 [11st, June - Relative Sort Array](./June/11st_Relative_Sort_Array.md)
