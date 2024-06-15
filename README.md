@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## June
 
+[15th, June - IPO](./June/15th_IPO.md)
+
 [14th, June - Minimum Increment to Make Array Unique](./June/14th_Minimum_Increment_to_Make_Array_Unique.md)
 
 [13rd, June - Minimum Number of Moves to Seat Everyone](./June/13rd_Minimum_Number_of_Moves_to_Seat_Everyone.md)
