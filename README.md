@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## June
 
+[16th, June - Patching Array](./June/16th_Patching_Array.md)
+
 [15th, June - IPO](./June/15th_IPO.md)
 
 [14th, June - Minimum Increment to Make Array Unique](./June/14th_Minimum_Increment_to_Make_Array_Unique.md)
