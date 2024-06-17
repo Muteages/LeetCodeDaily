@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## June
 
+[17th, June - Sum of Square Numbers](./June/17th_Sum_of_Square_Numbers.md)
+
 [16th, June - Patching Array](./June/16th_Patching_Array.md)
 
 [15th, June - IPO](./June/15th_IPO.md)
