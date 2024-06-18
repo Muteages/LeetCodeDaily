@@ -6,6 +6,9 @@ C++ and JavaScript
 
 ## June
 
+
+[18th, June - Most Profit Assigning Work](./June/18th_Most%20Profit%20Assigning%20Work.md)
+
 [17th, June - Sum of Square Numbers](./June/17th_Sum_of_Square_Numbers.md)
 
 [16th, June - Patching Array](./June/16th_Patching_Array.md)
