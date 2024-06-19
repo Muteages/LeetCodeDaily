@@ -6,6 +6,7 @@ C++ and JavaScript
 
 ## June
 
+[19th, June - Minimum Number of Days to Make m Bouquets](./June/19th_Minimum_Number_of_Days_to_Make_m_Bouquets.md)
 
 [18th, June - Most Profit Assigning Work](./June/18th_Most%20Profit%20Assigning%20Work.md)
 
