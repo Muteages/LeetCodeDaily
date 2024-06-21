@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## June
 
+[21st, June - Grumpy Bookstore Owner](./June/21st_Grumpy_Bookstore_Owner.md)
+
 [20th, June - Magnetic Force Between Two Balls](./June/20th_Magnetic_Force_Between_Two_Balls.md)
 
 [19th, June - Minimum Number of Days to Make m Bouquets](./June/19th_Minimum_Number_of_Days_to_Make_m_Bouquets.md)
