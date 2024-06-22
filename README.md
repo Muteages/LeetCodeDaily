@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## June
 
+[22nd, June - Count Number of Nice Subarrays](./June/22nd.Count_Number_of_Nice_Subarrays.md)
+
 [21st, June - Grumpy Bookstore Owner](./June/21st_Grumpy_Bookstore_Owner.md)
 
 [20th, June - Magnetic Force Between Two Balls](./June/20th_Magnetic_Force_Between_Two_Balls.md)
