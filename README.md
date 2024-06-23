@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## June
 
+[23rd, June - Longest Continuous Subarray with Absolute Diff less than or Equal to Limit](./June/23rd_Longest_Continuous_Subarray_with_Absolute_Diff_less_than_or_Equal_to_Limit.md)
+
 [22nd, June - Count Number of Nice Subarrays](./June/22nd.Count_Number_of_Nice_Subarrays.md)
 
 [21st, June - Grumpy Bookstore Owner](./June/21st_Grumpy_Bookstore_Owner.md)
