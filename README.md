@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## June
 
+[26th, June - Balance a Binary Search Tree](./June/26th_Balance_a_Binary_Search_Tree.md)
+
 [25th, June - Binary Search Tree to Greater Sum Tree](./June/25th_Binary_Search_Tree_to_Greater_Sum_Tree.md)
 
 [23rd, June - Longest Continuous Subarray with Absolute Diff less than or Equal to Limit](./June/23rd_Longest_Continuous_Subarray_with_Absolute_Diff_less_than_or_Equal_to_Limit.md)
