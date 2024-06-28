@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## June
 
+[28th, June - Maximum Total Importance of Roads](./June/28th_Maximum_Total_Importance_of_Roads.md)
+
 [27th, June - Find Center of Star Graph](./June/27th_Find_Center_of_Star_Graph.md)
 
 [26th, June - Balance a Binary Search Tree](./June/26th_Balance_a_Binary_Search_Tree.md)
