@@ -4,6 +4,10 @@ C++ and JavaScript
 
 ## 2024
 
+## July
+
+[1st, July - Three Consecutive Odds](./July/1st_Three_Consecutive_Odds.md)
+
 ## June
 
 [28th, June - Maximum Total Importance of Roads](./June/28th_Maximum_Total_Importance_of_Roads.md)
