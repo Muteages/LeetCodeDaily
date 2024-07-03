@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## July
 
+[3rd, July - Minimum Difference Between Largest and Smallest Value in Three Moves](./July/3rd_Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.md)
+
 [2nd, July - Intersection of Two Arrays](./July/2nd_Intersection_of_Two_Arrays.md)
 
 [1st, July - Three Consecutive Odds](./July/1st_Three_Consecutive_Odds.md)
