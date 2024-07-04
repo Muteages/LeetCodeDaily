@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## July
 
+[4th, July - Merge Nodes in Between Zeros](./July/4th_Merge_Nodes_in_Between_Zeros.md)
+
 [3rd, July - Minimum Difference Between Largest and Smallest Value in Three Moves](./July/3rd_Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.md)
 
 [2nd, July - Intersection of Two Arrays](./July/2nd_Intersection_of_Two_Arrays.md)
