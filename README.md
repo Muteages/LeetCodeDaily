@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## July
 
+[5th, July - Find the Minimum and Maximum Number of Nodes Between Critical Points](./July/5th_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.md)
+
 [4th, July - Merge Nodes in Between Zeros](./July/4th_Merge_Nodes_in_Between_Zeros.md)
 
 [3rd, July - Minimum Difference Between Largest and Smallest Value in Three Moves](./July/3rd_Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.md)
