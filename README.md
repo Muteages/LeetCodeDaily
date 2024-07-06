@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## July
 
+[6th, July - Pass the Pillow](./July/6th_Pass_the_Pillow.md)
+
 [5th, July - Find the Minimum and Maximum Number of Nodes Between Critical Points](./July/5th_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.md)
 
 [4th, July - Merge Nodes in Between Zeros](./July/4th_Merge_Nodes_in_Between_Zeros.md)
