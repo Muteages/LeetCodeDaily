@@ -6,6 +6,10 @@ C++ and JavaScript
 
 ## July
 
+[8th, July - Find the Winner of the Circular Game](./July/8th_Find_the_Winner_of_the_Circular_Game.md)
+
+[7th, July - Water Bottles](./July/7th_Water_Bottles.md)
+
 [6th, July - Pass the Pillow](./July/6th_Pass_the_Pillow.md)
 
 [5th, July - Find the Minimum and Maximum Number of Nodes Between Critical Points](./July/5th_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.md)
