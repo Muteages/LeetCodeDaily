@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## July
 
+[9th, July - Average Waiting Time](./July/9th_Average_Waiting_Time.md)
+
 [8th, July - Find the Winner of the Circular Game](./July/8th_Find_the_Winner_of_the_Circular_Game.md)
 
 [7th, July - Water Bottles](./July/7th_Water_Bottles.md)
