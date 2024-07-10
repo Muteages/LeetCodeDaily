@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## July
 
+[10th, July - Crawler Log Folder](./July/10th_Crawler_Log_Folder.md)
+
 [9th, July - Average Waiting Time](./July/9th_Average_Waiting_Time.md)
 
 [8th, July - Find the Winner of the Circular Game](./July/8th_Find_the_Winner_of_the_Circular_Game.md)
