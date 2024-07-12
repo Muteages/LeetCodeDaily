@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## July
 
+[12nd, July - Maximum Score from Removing Substrings](./July/12th_Maximum_Score_from_Removing_Substrings.md)
+
 [10th, July - Crawler Log Folder](./July/10th_Crawler_Log_Folder.md)
 
 [9th, July - Average Waiting Time](./July/9th_Average_Waiting_Time.md)
