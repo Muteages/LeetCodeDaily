@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## July
 
+[15th, July - Create Binary Tree from Descriptions](./July/15th_Create_Binary_Tree_from_Descriptions.md)
+
 [12nd, July - Maximum Score from Removing Substrings](./July/12th_Maximum_Score_from_Removing_Substrings.md)
 
 [10th, July - Crawler Log Folder](./July/10th_Crawler_Log_Folder.md)
