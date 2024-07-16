@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## July
 
+[16th, July - Step-by-Step Directions from a Binary Tree Node to Another](./July/16th_Step_by_Step_Directions_from_a_Binary_Tree_Node_to_Another.md)
+
 [15th, July - Create Binary Tree from Descriptions](./July/15th_Create_Binary_Tree_from_Descriptions.md)
 
 [12nd, July - Maximum Score from Removing Substrings](./July/12th_Maximum_Score_from_Removing_Substrings.md)
