@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## July
 
+[17th, July - Delete Nodes and Return Forest](./July/17th_Delete_Nodes_and_Return_Forest.md)
+
 [16th, July - Step-by-Step Directions from a Binary Tree Node to Another](./July/16th_Step_by_Step_Directions_from_a_Binary_Tree_Node_to_Another.md)
 
 [15th, July - Create Binary Tree from Descriptions](./July/15th_Create_Binary_Tree_from_Descriptions.md)
