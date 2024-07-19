@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## July
 
+[19th, July - Lucky Numbers in a Matrix](./July/19th_Lucky_Numbers_in_a_Matrix.md)
+
 [17th, July - Delete Nodes and Return Forest](./July/17th_Delete_Nodes_and_Return_Forest.md)
 
 [16th, July - Step-by-Step Directions from a Binary Tree Node to Another](./July/16th_Step_by_Step_Directions_from_a_Binary_Tree_Node_to_Another.md)
