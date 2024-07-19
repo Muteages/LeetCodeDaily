@@ -40,6 +40,35 @@ A lucky number is an element of the matrix such that it is the minimum element i
     }
 ```
 
+``` C++
+    bool isMaxOfCol(const std::vector<std::vector<int>>& mat, int maxOfCol, int col)
+    {
+        for (int row = 0; row < mat.size(); row++)
+        {
+            if (mat[row][col] > maxOfCol)
+            {
+                return false;
+            }
+        }
+        return true;
+    }
+    vector<int> luckyNumbers (vector<vector<int>>& matrix) {
+        int m = matrix.size(), n = matrix[0].size();
+        for (int row = 0; row < m; row++)
+        {
+            int minCol = std::min_element(matrix[row].begin(), matrix[row].end()) - matrix[row].begin();
+            int minOfRow = matrix[row][minCol];
+            if (isMaxOfCol(matrix, minOfRow, minCol))
+            {
+                return {minOfRow};
+            }
+        }
+        return {};
+    }
+```
+
+
+
 ``` JavaScript
 var luckyNumbers  = function(matrix) {
     for (let row of matrix) {
@@ -52,3 +81,4 @@ var luckyNumbers  = function(matrix) {
     return [];
 };
 ```
+
