@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## July
 
+[20th, July - Find Valid Matrix Given Row and Column Sums](./July/20th_Find_Valid_Matrix_Given_Row_and_Column_Sums.md)
+
 [19th, July - Lucky Numbers in a Matrix](./July/19th_Lucky_Numbers_in_a_Matrix.md)
 
 [17th, July - Delete Nodes and Return Forest](./July/17th_Delete_Nodes_and_Return_Forest.md)
