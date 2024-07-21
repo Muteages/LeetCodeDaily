@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## July
 
+[21st, July - Build a Matrix with Conditions](./July/21st_Build_a_Matrix_with_Conditions.md)
+
 [20th, July - Find Valid Matrix Given Row and Column Sums](./July/20th_Find_Valid_Matrix_Given_Row_and_Column_Sums.md)
 
 [19th, July - Lucky Numbers in a Matrix](./July/19th_Lucky_Numbers_in_a_Matrix.md)
