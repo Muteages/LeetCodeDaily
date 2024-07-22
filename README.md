@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## July
 
+[22nd, July - Sort the People](./July/22nd_Sort_the_People.md)
+
 [21st, July - Build a Matrix with Conditions](./July/21st_Build_a_Matrix_with_Conditions.md)
 
 [20th, July - Find Valid Matrix Given Row and Column Sums](./July/20th_Find_Valid_Matrix_Given_Row_and_Column_Sums.md)
