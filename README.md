@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## July
 
+[23rd, July - Sort Array by Increasing Frequency](./July/23rd_Sort_Array_by_Increasing_Frequency.md)
+
 [22nd, July - Sort the People](./July/22nd_Sort_the_People.md)
 
 [21st, July - Build a Matrix with Conditions](./July/21st_Build_a_Matrix_with_Conditions.md)
