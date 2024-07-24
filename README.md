@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## July
 
+[24th, July - Sort the Jumbled Numbers](./July/24th_Sort_the_Jumbled_Numbers.md)
+
 [23rd, July - Sort Array by Increasing Frequency](./July/23rd_Sort_Array_by_Increasing_Frequency.md)
 
 [22nd, July - Sort the People](./July/22nd_Sort_the_People.md)
