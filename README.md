@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## July
 
+[26th, July - Find the City with the Smallest Number of Neighbours at a Threshold Distance](./July/26th_Find_the_City_with_the_Smallest_Number_of_Neighbours_at_a_Threshold_Distance.md)
+
 [25th, July - Sort an Array](./July/25th_Sort_an_Array.md)
 
 [24th, July - Sort the Jumbled Numbers](./July/24th_Sort_the_Jumbled_Numbers.md)
