@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## July
 
+[27th, July - Minimum Cost to Convert String I](./July/27th_Minimum_Cost_to_Convert_String_I.md)
+
 [26th, July - Find the City with the Smallest Number of Neighbours at a Threshold Distance](./July/26th_Find_the_City_with_the_Smallest_Number_of_Neighbours_at_a_Threshold_Distance.md)
 
 [25th, July - Sort an Array](./July/25th_Sort_an_Array.md)
