@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## July
 
+[30th, July - Minimum Deletions to Make String Balanced](./July/30th_Minimum_Deletions_to_Make_String_Balanced.md)
+
 [29th, July - Count Number of Teams](./July/29th_Count_Number_of_Teams.md)
 
 [27th, July - Minimum Cost to Convert String I](./July/27th_Minimum_Cost_to_Convert_String_I.md)
