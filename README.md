@@ -4,6 +4,10 @@ C++ and JavaScript
 
 ## 2024
 
+## August
+
+[1st, August - Number of Senior Citizens](./August_2024/1st_Number_of_Senior_Citizens.md)
+
 ## July
 
 [30th, July - Minimum Deletions to Make String Balanced](./July/30th_Minimum_Deletions_to_Make_String_Balanced.md)
