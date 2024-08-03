@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## August
 
+[3rd, August - Make Two Arrays Equal by Reversing Subarrays](./August_2024/3rd_Make_Two_Arrays_Equal_by_Reversing_Subarrays.md)
+
 [2nd, August - Minimum Swaps to Group All 1's Together II](./August_2024/2nd_Minimum_Swaps_to_Group_All_1s_Together_II.md)
 
 [1st, August - Number of Senior Citizens](./August_2024/1st_Number_of_Senior_Citizens.md)
