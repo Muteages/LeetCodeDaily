@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## August
 
+[6th, August - Minimum Number of Pushes to Type Word](./August_2024/6th_Minimum_Number_of_Pushes_to_Type_Word.md)
+
 [5th, August - Kth Distinct String In an Array](./August_2024/5th_Kth_Distinct_String_In_an_Array.md)
 
 [3rd, August - Make Two Arrays Equal by Reversing Subarrays](./August_2024/3rd_Make_Two_Arrays_Equal_by_Reversing_Subarrays.md)
