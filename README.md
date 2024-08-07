@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## August
 
+[7th, August - Integer to English Words](./August_2024/7th_Integer_to_English_Words.md)
+
 [6th, August - Minimum Number of Pushes to Type Word](./August_2024/6th_Minimum_Number_of_Pushes_to_Type_Word.md)
 
 [5th, August - Kth Distinct String In an Array](./August_2024/5th_Kth_Distinct_String_In_an_Array.md)
