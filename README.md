@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## August
 
+[8th, August - Spiral Matrix III](./August_2024/8th_Spiral_Matrix_iii.md)
+
 [7th, August - Integer to English Words](./August_2024/7th_Integer_to_English_Words.md)
 
 [6th, August - Minimum Number of Pushes to Type Word](./August_2024/6th_Minimum_Number_of_Pushes_to_Type_Word.md)
