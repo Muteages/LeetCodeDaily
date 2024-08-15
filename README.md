@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## August
 
+[15th, August - Lemonade Change](./August_2024/15th_Lemonade_Change.md)
+
 [14th, August - Find Kth Smallest Pair Distance](./August_2024/14th_Find_Kth__Smallest_Pair_Distance.md)
 
 [12nd, August - Kth Largest Element in a Stream](./August_2024/12nd_Kth_Largest_Element_in_a_Stream.md)
