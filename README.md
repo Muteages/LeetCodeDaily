@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## August
 
+[16th, August - Maximum Distance in Arrays](./August_2024/16th_Maximum_Distance_in_Arrays.md)
+
 [15th, August - Lemonade Change](./August_2024/15th_Lemonade_Change.md)
 
 [14th, August - Find Kth Smallest Pair Distance](./August_2024/14th_Find_Kth__Smallest_Pair_Distance.md)
