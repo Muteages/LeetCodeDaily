@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## August
 
+[18th, August - Ugly Number II](./August_2024/18th_Ugly_Number_II.md)
+
 [16th, August - Maximum Distance in Arrays](./August_2024/16th_Maximum_Distance_in_Arrays.md)
 
 [15th, August - Lemonade Change](./August_2024/15th_Lemonade_Change.md)
