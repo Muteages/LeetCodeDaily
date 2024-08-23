@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## August
 
+[23rd, August - 23rd Fraction Addition and Subtraction](./August_2024/23rd_Fraction_Addition_and_Subtraciton.md)
+
 [22nd, August - 2nd Number Complement](./August_2024/22nd_Number_Complement.md)
 
 [18th, August - Ugly Number II](./August_2024/18th_Ugly_Number_II.md)
