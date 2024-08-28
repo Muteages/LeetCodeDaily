@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## August
 
+[28th, August - 28th Count Sub Islands](./August_2024/28th_Count_Sub_Islands.md)
+
 [27th, August - 27th Path with Maximum Probability](./August_2024/27th_Path_with_Maximum_Probability.md)
 
 [26th, August - 26th N-ary Tree Postorder Traversal](./August_2024/26th_N-ary_Tree_Postorder_Traversal.md)
