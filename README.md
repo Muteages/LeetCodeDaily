@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## August
 
+[29th, August - 29th Most Stones Removed with Same Row or Column](./August_2024/29th_Most_Stones_Removed_with_Same_Row_or_Column.md)
+
 [28th, August - 28th Count Sub Islands](./August_2024/28th_Count_Sub_Islands.md)
 
 [27th, August - 27th Path with Maximum Probability](./August_2024/27th_Path_with_Maximum_Probability.md)
