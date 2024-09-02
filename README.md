@@ -8,6 +8,8 @@ C++ and JavaScript
 
 [1st, September - 1st Convert 1D Array into 2D Array](./September_2024/1st_Convert_1D_Array_into_2D_Array.md)
 
+[2nd, September - 2nd Find the Student that will Replace the Chalk](./September_2024/2nd_Find_the_Student_that_will_Replace_the_Chalk.md)
+
 
 ## August
 
