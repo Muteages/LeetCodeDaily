@@ -6,10 +6,11 @@ C++ and JavaScript
 
 ## September
 
-[1st, September - 1st Convert 1D Array into 2D Array](./September_2024/1st_Convert_1D_Array_into_2D_Array.md)
+[3rd, September - 3rd Sum of Digits of String after Convert](./September_2024/3rd_Sum_of_Digits_of_String_after_Convert.md)
 
 [2nd, September - 2nd Find the Student that will Replace the Chalk](./September_2024/2nd_Find_the_Student_that_will_Replace_the_Chalk.md)
 
+[1st, September - 1st Convert 1D Array into 2D Array](./September_2024/1st_Convert_1D_Array_into_2D_Array.md)
 
 ## August
 
