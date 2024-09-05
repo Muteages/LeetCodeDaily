@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## September
 
+[5th, September - 5th Find Missing Observations](./September_2024/5th_Find_Missing_Observations.md)
+
 [4th, September - 4th Walking Robot Simulation](./September_2024/4th_Walking_Robot_Simulation.md)
 
 [3rd, September - 3rd Sum of Digits of String after Convert](./September_2024/3rd_Sum_of_Digits_of_String_after_Convert.md)
