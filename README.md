@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## September
 
+[6th, September - 6th Delete Nodes From Linked List Present in Array](./September_2024/6th_Delete_Nodes_From_Linked_List_Present_in_Array.md)
+
 [5th, September - 5th Find Missing Observations](./September_2024/5th_Find_Missing_Observations.md)
 
 [4th, September - 4th Walking Robot Simulation](./September_2024/4th_Walking_Robot_Simulation.md)
