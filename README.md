@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## September
 
+[8th, September - 8th Pascal's Triangle](./September/8th_Sept_Pascal's_Triangle.md)
+
 [7th, September - 7th Linked List in Binary Tree](./September_2024/7th_Linked_List_in_Binary_Tree.md)
 
 [6th, September - 6th Delete Nodes From Linked List Present in Array](./September_2024/6th_Delete_Nodes_From_Linked_List_Present_in_Array.md)
