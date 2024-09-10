@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## September
 
+[10th, September - 10th Insert Greatest Common Divisors in Linked List](./September_2024/10th_Insert_Greatest_Common_Divisors_in_Linked_List.md)
+
 [8th, September - 8th Pascal's Triangle](./September/8th_Sept_Pascal's_Triangle.md)
 
 [7th, September - 7th Linked List in Binary Tree](./September_2024/7th_Linked_List_in_Binary_Tree.md)
