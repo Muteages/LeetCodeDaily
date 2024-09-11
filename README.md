@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## September
 
+[11st, September - 11th Group the People Given the Group Size They Belong To](./September/11st_Sept_Group_the_People_Given_the_Group_Size_They_Belong_To.md)
+
 [10th, September - 10th Insert Greatest Common Divisors in Linked List](./September_2024/10th_Insert_Greatest_Common_Divisors_in_Linked_List.md)
 
 [9th, September - 9th Spiral Matrix IV](./September_2024/9th_Spiral_Matrix_IV.md)
