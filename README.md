@@ -6,47 +6,49 @@ C++ and JavaScript
 
 ## September
 
-[12nd, September - 12nd Count the Number of Consistent Strings](./September_2024/12nd_Count_the_Number_of_Consistent_Strings.md)
+[13rd, September - XOR Queries of a Subarray](./September_2024/13rd_XOR_Queries_of_a_Subarray.md)
 
-[11st, September - 11th Group the People Given the Group Size They Belong To](./September/11st_Sept_Group_the_People_Given_the_Group_Size_They_Belong_To.md)
+[12nd, September - Count the Number of Consistent Strings](./September_2024/12nd_Count_the_Number_of_Consistent_Strings.md)
 
-[10th, September - 10th Insert Greatest Common Divisors in Linked List](./September_2024/10th_Insert_Greatest_Common_Divisors_in_Linked_List.md)
+[11st, September - Group the People Given the Group Size They Belong To](./September/11st_Sept_Group_the_People_Given_the_Group_Size_They_Belong_To.md)
 
-[9th, September - 9th Spiral Matrix IV](./September_2024/9th_Spiral_Matrix_IV.md)
+[10th, September - Insert Greatest Common Divisors in Linked List](./September_2024/10th_Insert_Greatest_Common_Divisors_in_Linked_List.md)
 
-[8th, September - 8th Pascal's Triangle](./September/8th_Sept_Pascal's_Triangle.md)
+[9th, September - Spiral Matrix IV](./September_2024/9th_Spiral_Matrix_IV.md)
 
-[7th, September - 7th Linked List in Binary Tree](./September_2024/7th_Linked_List_in_Binary_Tree.md)
+[8th, September - Pascal's Triangle](./September/8th_Sept_Pascal's_Triangle.md)
 
-[6th, September - 6th Delete Nodes From Linked List Present in Array](./September_2024/6th_Delete_Nodes_From_Linked_List_Present_in_Array.md)
+[7th, September - Linked List in Binary Tree](./September_2024/7th_Linked_List_in_Binary_Tree.md)
 
-[5th, September - 5th Find Missing Observations](./September_2024/5th_Find_Missing_Observations.md)
+[6th, September - Delete Nodes From Linked List Present in Array](./September_2024/6th_Delete_Nodes_From_Linked_List_Present_in_Array.md)
 
-[4th, September - 4th Walking Robot Simulation](./September_2024/4th_Walking_Robot_Simulation.md)
+[5th, September - Find Missing Observations](./September_2024/5th_Find_Missing_Observations.md)
 
-[3rd, September - 3rd Sum of Digits of String after Convert](./September_2024/3rd_Sum_of_Digits_of_String_after_Convert.md)
+[4th, September - Walking Robot Simulation](./September_2024/4th_Walking_Robot_Simulation.md)
 
-[2nd, September - 2nd Find the Student that will Replace the Chalk](./September_2024/2nd_Find_the_Student_that_will_Replace_the_Chalk.md)
+[3rd, September - Sum of Digits of String after Convert](./September_2024/3rd_Sum_of_Digits_of_String_after_Convert.md)
 
-[1st, September - 1st Convert 1D Array into 2D Array](./September_2024/1st_Convert_1D_Array_into_2D_Array.md)
+[2nd, September - Find the Student that will Replace the Chalk](./September_2024/2nd_Find_the_Student_that_will_Replace_the_Chalk.md)
+
+[1st, September - Convert 1D Array into 2D Array](./September_2024/1st_Convert_1D_Array_into_2D_Array.md)
 
 ## August
 
-[31th, August - 31th Path with Maximum Probability](./August_2024/31th_Path_with_Maximum_Probability.md)
+[31th, August - Path with Maximum Probability](./August_2024/31th_Path_with_Maximum_Probability.md)
 
-[29th, August - 29th Most Stones Removed with Same Row or Column](./August_2024/29th_Most_Stones_Removed_with_Same_Row_or_Column.md)
+[29th, August - Most Stones Removed with Same Row or Column](./August_2024/29th_Most_Stones_Removed_with_Same_Row_or_Column.md)
 
-[28th, August - 28th Count Sub Islands](./August_2024/28th_Count_Sub_Islands.md)
+[28th, August - Count Sub Islands](./August_2024/28th_Count_Sub_Islands.md)
 
-[27th, August - 27th Path with Maximum Probability](./August_2024/27th_Path_with_Maximum_Probability.md)
+[27th, August - Path with Maximum Probability](./August_2024/27th_Path_with_Maximum_Probability.md)
 
-[26th, August - 26th N-ary Tree Postorder Traversal](./August_2024/26th_N-ary_Tree_Postorder_Traversal.md)
+[26th, August - N-ary Tree Postorder Traversal](./August_2024/26th_N-ary_Tree_Postorder_Traversal.md)
 
-[25th, August - 25th Postorder Traversal](./August_2024/25th_Postorder_Traversal.md)
+[25th, August - Postorder Traversal](./August_2024/25th_Postorder_Traversal.md)
 
-[23rd, August - 23rd Fraction Addition and Subtraction](./August_2024/23rd_Fraction_Addition_and_Subtraciton.md)
+[23rd, August - Fraction Addition and Subtraction](./August_2024/23rd_Fraction_Addition_and_Subtraciton.md)
 
-[22nd, August - 2nd Number Complement](./August_2024/22nd_Number_Complement.md)
+[22nd, August - Number Complement](./August_2024/22nd_Number_Complement.md)
 
 [18th, August - Ugly Number II](./August_2024/18th_Ugly_Number_II.md)
 
