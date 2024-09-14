@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## September
 
+[14th, September - Longest Subarray with Maximum Bitwise AND](./September_2024/14th_Longest_Subarray_with_Maximum_Bitwise_AND.md)
+
 [13rd, September - XOR Queries of a Subarray](./September_2024/13rd_XOR_Queries_of_a_Subarray.md)
 
 [12nd, September - Count the Number of Consistent Strings](./September_2024/12nd_Count_the_Number_of_Consistent_Strings.md)
