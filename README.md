@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## September
 
+[15th, September - Find the Longest Substring Containing Vowels in Even Counts](./September_2024/15th_Find_the_Longest_Substring_Containing_Vowels_in_Even_Counts.md)
+
 [14th, September - Longest Subarray with Maximum Bitwise AND](./September_2024/14th_Longest_Subarray_with_Maximum_Bitwise_AND.md)
 
 [13rd, September - XOR Queries of a Subarray](./September_2024/13rd_XOR_Queries_of_a_Subarray.md)
