@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## September
 
+[17th, September - Uncommon Words from Two Sentences](./September_2024/17th_Uncommon_Words_from_Two_Sentences.md)
+
 [16th, September - Minimum Time Difference](./September_2024/16th_Minimum_Time_Difference.md)
 
 [15th, September - Find the Longest Substring Containing Vowels in Even Counts](./September_2024/15th_Find_the_Longest_Substring_Containing_Vowels_in_Even_Counts.md)
