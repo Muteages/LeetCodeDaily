@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## September
 
+[18th, September - Largest Number](./September_2024/18th_Largest_Number.md)
+
 [17th, September - Uncommon Words from Two Sentences](./September_2024/17th_Uncommon_Words_from_Two_Sentences.md)
 
 [16th, September - Minimum Time Difference](./September_2024/16th_Minimum_Time_Difference.md)
