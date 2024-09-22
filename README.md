@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## September
 
+[21st, September - Lexicographical Numbers](./September_2024/21st_Lexicographical_Numebrs.md)
+
 [18th, September - Largest Number](./September_2024/18th_Largest_Number.md)
 
 [17th, September - Uncommon Words from Two Sentences](./September_2024/17th_Uncommon_Words_from_Two_Sentences.md)
