@@ -51,3 +51,31 @@ var minExtraChar = function(s, dictionary) {
     return dp[0];
 };
 ```
+
+## Approach 3
+
+Use string_view to avoid creating new substrings
+
+``` C++
+    int minExtraChar(string s, vector<string>& dictionary) {
+        int len = s.length();
+        std::vector<int> dp(len + 1, INT_MAX);
+        dp[len] = 0;
+        std::string_view sv(s);
+        std::unordered_set<std::string_view> us(dictionary.begin(), dictionary.end());
+
+        for (int i = len - 1; i >= 0; i--)
+        {
+            dp[i] = dp[i + 1] + 1;
+            for (int j = i + 1; j <= len; j++)
+            {
+                auto sub = sv.substr(i, j - i);
+                if (us.count(sub))
+                {
+                    dp[i] = std::min(dp[i], dp[j]);
+                }
+            }
+        }
+        return dp[0];
+    }
+```
