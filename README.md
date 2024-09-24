@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## September
 
+[24th, September - Find the Length of the Longest Common Prefix](./September_2024/24th_Find_the_Length_of_the_Longest_Common_Prefix.md)
+
 [23rd, September - Extra Characters in a String](./September_2024/23rd_Extra_Characters_in_A_String.md)
 
 [21st, September - Lexicographical Numbers](./September_2024/21st_Lexicographical_Numebrs.md)
