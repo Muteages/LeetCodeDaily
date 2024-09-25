@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## September
 
+[25th, September - Sum of Prefix Scores of Strings](./September_2024/25th_Sum_of_Prefix_Scores_of_Strings.md)
+
 [24th, September - Find the Length of the Longest Common Prefix](./September_2024/24th_Find_the_Length_of_the_Longest_Common_Prefix.md)
 
 [23rd, September - Extra Characters in a String](./September_2024/23rd_Extra_Characters_in_A_String.md)
