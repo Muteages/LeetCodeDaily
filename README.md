@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## September
 
+[26th, September - My Calendar](./September_2024/26th_My_Calendar.md)
+
 [25th, September - Sum of Prefix Scores of Strings](./September_2024/25th_Sum_of_Prefix_Scores_of_Strings.md)
 
 [24th, September - Find the Length of the Longest Common Prefix](./September_2024/24th_Find_the_Length_of_the_Longest_Common_Prefix.md)
