@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## September
 
+[27th, September - My Calendar II](./September_2024/27th_My_Calendar_II.md)
+
 [26th, September - My Calendar](./September_2024/26th_My_Calendar.md)
 
 [25th, September - Sum of Prefix Scores of Strings](./September_2024/25th_Sum_of_Prefix_Scores_of_Strings.md)
