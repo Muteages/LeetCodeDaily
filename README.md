@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## September
 
+[30th, September - Design a Stack with Increment Operation](./September_2024/30th_Design_a_Stack_with_Increment_Operation.md)
+
 [27th, September - My Calendar II](./September_2024/27th_My_Calendar_II.md)
 
 [26th, September - My Calendar](./September_2024/26th_My_Calendar.md)
