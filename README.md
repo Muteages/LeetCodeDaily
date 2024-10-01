@@ -4,6 +4,10 @@ C++ and JavaScript
 
 ## 2024
 
+## October
+
+[1st, October - Check if Array Pairs are Divisible by K](./October_2024/1st_Check_if_Array_Pairs_are_Divisible_by_K.md)
+
 ## September
 
 [30th, September - Design a Stack with Increment Operation](./September_2024/30th_Design_a_Stack_with_Increment_Operation.md)
