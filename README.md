@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## October
 
+[3rd, October - Make Sum Divisible by P](./October_2024/3rd_Make_Sum_Divisible_by_P.md)
+
 [2nd, October - Rank Transform of an Array](./October_2024/2nd_Rank_Transform_of_an_Array.md)
 
 [1st, October - Check if Array Pairs are Divisible by K](./October_2024/1st_Check_if_Array_Pairs_are_Divisible_by_K.md)
