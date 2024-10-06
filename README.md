@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## October
 
+[6th, October - 6th Sentence Similarity III](./October_2024/6th_Sentence_Similarity_iii.md)
+
 [5th, October - 5th Permutation in String](./October_2024/5th_Permutation_in_String.md)
 
 [4th, October - Divide Players into Teams of Equal Skill](./October_2024/4th_Divide_Players_into_Teams_of_Equal_Skill.md)
