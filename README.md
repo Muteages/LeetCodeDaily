@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## October
 
+[8th, October - 8th Max Dot Product of Two Subsequences](./October/8th_Max_Dot_Product_of_Two_Subsequences.md)
+
 [7th, October - 7th Minimum String Length After Removing Substrings](./October_2024/7th_Minimum_String_Length_After_Removing_Substrings.md)
 
 [6th, October - 6th Sentence Similarity III](./October_2024/6th_Sentence_Similarity_iii.md)
