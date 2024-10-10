@@ -6,15 +6,17 @@ C++ and JavaScript
 
 ## October
 
-[9th, October - 9th Minimum Add to Make Parentheses Valid](./October_2024/9th_Minimum_Add_to_Make_Parentheses_Valid.md)
+[10th, October - Maximum Width Ramp](./October_2024/10th_Maximum_Width_Ramp.md)
 
-[8th, October - 8th Max Dot Product of Two Subsequences](./October/8th_Max_Dot_Product_of_Two_Subsequences.md)
+[9th, October - Minimum Add to Make Parentheses Valid](./October_2024/9th_Minimum_Add_to_Make_Parentheses_Valid.md)
 
-[7th, October - 7th Minimum String Length After Removing Substrings](./October_2024/7th_Minimum_String_Length_After_Removing_Substrings.md)
+[8th, October - Max Dot Product of Two Subsequences](./October/8th_Max_Dot_Product_of_Two_Subsequences.md)
 
-[6th, October - 6th Sentence Similarity III](./October_2024/6th_Sentence_Similarity_iii.md)
+[7th, October - Minimum String Length After Removing Substrings](./October_2024/7th_Minimum_String_Length_After_Removing_Substrings.md)
 
-[5th, October - 5th Permutation in String](./October_2024/5th_Permutation_in_String.md)
+[6th, October - Sentence Similarity III](./October_2024/6th_Sentence_Similarity_iii.md)
+
+[5th, October - Permutation in String](./October_2024/5th_Permutation_in_String.md)
 
 [4th, October - Divide Players into Teams of Equal Skill](./October_2024/4th_Divide_Players_into_Teams_of_Equal_Skill.md)
 
