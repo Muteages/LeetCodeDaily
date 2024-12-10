@@ -4,6 +4,13 @@ C++ and JavaScript
 
 ## 2024
 
+## December
+
+[10th, December - Find Longest Special Subtring that Occurs Thrice](./December_2024/10th_Find_Longest_Special_Subtring_that_Occurs_Thrice.md)
+
+[9th, December - Special Array II](./December_2024/9th_Special_Array_II.md)
+
+
 ## October
 
 [10th, October - Maximum Width Ramp](./October_2024/10th_Maximum_Width_Ramp.md)
