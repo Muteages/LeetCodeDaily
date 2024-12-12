@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## December
 
+[12nd, December - Take Gifts from the Richest Pile](./December_2024/12nd_Take_Gifts_from_the_Richest_Pile.md)
+
 [10th, December - Find Longest Special Subtring that Occurs Thrice](./December_2024/10th_Find_Longest_Special_Subtring_that_Occurs_Thrice.md)
 
 [9th, December - Special Array II](./December_2024/9th_Special_Array_II.md)
