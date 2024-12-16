@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## December
 
+[16th, December - Final Array State after K Multiplication Operations](./December_2024/16th_Final_Array_State_after_K_Multiplication_Operations.md)
+
 [12nd, December - Take Gifts from the Richest Pile](./December_2024/12nd_Take_Gifts_from_the_Richest_Pile.md)
 
 [10th, December - Find Longest Special Subtring that Occurs Thrice](./December_2024/10th_Find_Longest_Special_Subtring_that_Occurs_Thrice.md)
