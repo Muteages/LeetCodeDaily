@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## December
 
+[17th, December - Construct String with Repeat Limit](./December_2024/17th_Construct_String_with_Repeat_Limit.md)
+
 [16th, December - Final Array State after K Multiplication Operations](./December_2024/16th_Final_Array_State_after_K_Multiplication_Operations.md)
 
 [12nd, December - Take Gifts from the Richest Pile](./December_2024/12nd_Take_Gifts_from_the_Richest_Pile.md)
