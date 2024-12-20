@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## December
 
+[20th, December - Reverse Odd Levels of Binary Tree](./December_2024/20th_Reverse_Odd_Levels_of_Binary_Tree.md)
+
 [19th, December - Max Chunks To Make Sorted](./December_2024/19th_Max_Chunks_To_Make_Sorted.md)
 
 [18th, December - Final Prices with a Special Discount in a Shop](./December_2024/18th_Final_Prices_with_a_Special_Discount_in_A_Shop.md)
