@@ -6,6 +6,8 @@ C++ and JavaScript
 
 ## December
 
+[19th, December - Max Chunks To Make Sorted](./December_2024/19th_Max_Chunks_To_Make_Sorted.md)
+
 [18th, December - Final Prices with a Special Discount in a Shop](./December_2024/18th_Final_Prices_with_a_Special_Discount_in_A_Shop.md)
 
 [17th, December - Construct String with Repeat Limit](./December_2024/17th_Construct_String_with_Repeat_Limit.md)
