@@ -1,6 +1,12 @@
 # LeetCode Daily Challenge
 
 C++ and JavaScript
+## 2025
+
+## January
+
+[7th, January - String Matching in an Array](./2025/January/7th_String_Matching_in_An_Array.md)
+
 
 ## 2024
 
