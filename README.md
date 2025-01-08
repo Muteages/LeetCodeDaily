@@ -1,9 +1,13 @@
 # LeetCode Daily Challenge
 
-C++ and JavaScript
+Coding excises with different languages
+C++, JavaScript, and now Python!
+
 ## 2025
 
 ## January
+
+[8th, January - Count Prefix and Suffix Pairs](./2025/January/8th_Count_Prefix_and_Suffix_Pairs.md)
 
 [7th, January - String Matching in an Array](./2025/January/7th_String_Matching_in_An_Array.md)
 
