@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## January
 
+[9th, January - Counting Words With a Given Prefix](./2025/January/9th_Counting_Words_with_A_Given_Prefix.md)
+
 [8th, January - Count Prefix and Suffix Pairs](./2025/January/8th_Count_Prefix_and_Suffix_Pairs.md)
 
 [7th, January - String Matching in an Array](./2025/January/7th_String_Matching_in_An_Array.md)
