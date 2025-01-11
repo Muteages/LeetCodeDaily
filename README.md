@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## January
 
+[11st, January - Construct K Palindrome Strings](./2025/January/11st_Construct_K_Palindrome_Strings.md)
+
 [10th, January - Word Subsets](./2025/January/10th_Word_Subsets.md)
 
 [9th, January - Counting Words With a Given Prefix](./2025/January/9th_Counting_Words_with_A_Given_Prefix.md)
