@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## January
 
+[12nd, January - Check if A parentheses String Can Be Valid](./2025/January/12nd_Check_if_A_Parentheses_String_Can_Be_Valid.md)
+
 [11st, January - Construct K Palindrome Strings](./2025/January/11st_Construct_K_Palindrome_Strings.md)
 
 [10th, January - Word Subsets](./2025/January/10th_Word_Subsets.md)
