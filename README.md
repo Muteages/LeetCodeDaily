@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## January
 
+[16th, January - Bitwise XOR of All](./2025/January/16th_Bitwise_XOR_of_All.md)
+
 [15th, January - Minimise XOR](./2025/January/15th_Minimise_XOR.md)
 
 [12nd, January - Check if A parentheses String Can Be Valid](./2025/January/12nd_Check_if_A_Parentheses_String_Can_Be_Valid.md)
