@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## January
 
+[17th, January - Neighbouring Bitwise XOR](./2025/January/17th_Neighbouring_Bitwise_XOR.md)
+
 [16th, January - Bitwise XOR of All](./2025/January/16th_Bitwise_XOR_of_All.md)
 
 [15th, January - Minimise XOR](./2025/January/15th_Minimise_XOR.md)
