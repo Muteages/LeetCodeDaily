@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## January
 
+[21st, January - Grid Game](./2025/January/21st_Grid_Game.md)
+
 [20th, January - First Completely Painted Row or Column](./2025/January/20th_First_Completely_Painted_Row_or_Column.md)
 
 [17th, January - Neighbouring Bitwise XOR](./2025/January/17th_Neighbouring_Bitwise_XOR.md)
