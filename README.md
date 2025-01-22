@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## January
 
+[22nd, January - Map of Highest Peak](./2025/January/22nd_Map_of_Highest_Peak.md)
+
 [21st, January - Grid Game](./2025/January/21st_Grid_Game.md)
 
 [20th, January - First Completely Painted Row or Column](./2025/January/20th_First_Completely_Painted_Row_or_Column.md)
