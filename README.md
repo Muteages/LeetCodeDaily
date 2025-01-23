@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## January
 
+[23rd, January - Count Servers that Communicate](./2025/January/23rd_Count_Servers_that_Communicate.md)
+
 [22nd, January - Map of Highest Peak](./2025/January/22nd_Map_of_Highest_Peak.md)
 
 [21st, January - Grid Game](./2025/January/21st_Grid_Game.md)
