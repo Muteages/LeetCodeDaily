@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## January
 
+[24th, January - Find Eventual Safe States](./2025/January/24th_Find_Eventual_Safe_States.md)
+
 [23rd, January - Count Servers that Communicate](./2025/January/23rd_Count_Servers_that_Communicate.md)
 
 [22nd, January - Map of Highest Peak](./2025/January/22nd_Map_of_Highest_Peak.md)
