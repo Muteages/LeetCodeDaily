@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## January
 
+[25th, January - Make Lexicographically Smallest Array by Swapping Elements](./2025/January/25th_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.md)
+
 [24th, January - Find Eventual Safe States](./2025/January/24th_Find_Eventual_Safe_States.md)
 
 [23rd, January - Count Servers that Communicate](./2025/January/23rd_Count_Servers_that_Communicate.md)
