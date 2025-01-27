@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## January
 
+[27th, January - Courses Schedule](./2025/January/27th_Courses_Schedule.md)
+
 [26th, January - Maximum Employees to be Invited to A Meeting](./2025/January/26th_Maximum_Employees_to_be_Invited_to_A_Meeting.md)
 
 [25th, January - Make Lexicographically Smallest Array by Swapping Elements](./2025/January/25th_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.md)
