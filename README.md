@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## January
 
+[28th, January - Maximum Number of Fish in A Grid](./2025/January/28th_Maximum_Number_of_Fish_in_A_Grid.md)
+
 [27th, January - Courses Schedule](./2025/January/27th_Courses_Schedule.md)
 
 [26th, January - Maximum Employees to be Invited to A Meeting](./2025/January/26th_Maximum_Employees_to_be_Invited_to_A_Meeting.md)
