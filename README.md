@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## January
 
+[29th, January - Redundant Connection](./2025/January/29th_Redundant_Connection.md)
+
 [28th, January - Maximum Number of Fish in A Grid](./2025/January/28th_Maximum_Number_of_Fish_in_A_Grid.md)
 
 [27th, January - Courses Schedule](./2025/January/27th_Courses_Schedule.md)
