@@ -5,6 +5,11 @@ C++, JavaScript, and now Python!
 
 ## 2025
 
+## February
+
+[1st, February - Special Array](./2025/February/1st_Special_Array.md)
+
+
 ## January
 
 [29th, January - Redundant Connection](./2025/January/29th_Redundant_Connection.md)
@@ -33,9 +38,9 @@ C++, JavaScript, and now Python!
 
 [15th, January - Minimise XOR](./2025/January/15th_Minimise_XOR.md)
 
-[12nd, January - Check if A parentheses String Can Be Valid](./2025/January/12nd_Check_if_A_Parentheses_String_Can_Be_Valid.md)
+[12th, January - Check if A parentheses String Can Be Valid](./2025/January/12nd_Check_if_A_Parentheses_String_Can_Be_Valid.md)
 
-[11st, January - Construct K Palindrome Strings](./2025/January/11st_Construct_K_Palindrome_Strings.md)
+[11th, January - Construct K Palindrome Strings](./2025/January/11st_Construct_K_Palindrome_Strings.md)
 
 [10th, January - Word Subsets](./2025/January/10th_Word_Subsets.md)
 
