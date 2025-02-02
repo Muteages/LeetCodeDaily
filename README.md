@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## February
 
+[2nd, February - Check if Array is Sorted and Rotated](./2025/February/2nd_Check_if_Array_is_Sorted_and_Rotated.md)
+
 [1st, February - Special Array](./2025/February/1st_Special_Array.md)
 
 
