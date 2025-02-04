@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## February
 
+[4th, February - Maximum Ascending Subarray Sum](./2025/February/4th_Maximum_Ascending_Subarray_Sum.md)
+
 [3rd, February - Longest Strictly Increasing or Strictly Decreasing Subarray](./2025/February/3rd_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.md)
 
 [2nd, February - Check if Array is Sorted and Rotated](./2025/February/2nd_Check_if_Array_is_Sorted_and_Rotated.md)
