@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## February
 
+[5th, February - Check if One String Swap Can Make Strings Equal](./2025/February/5th_Check_if_One_String_Swap_Can_Make_Strings_Equal.md)
+
 [4th, February - Maximum Ascending Subarray Sum](./2025/February/4th_Maximum_Ascending_Subarray_Sum.md)
 
 [3rd, February - Longest Strictly Increasing or Strictly Decreasing Subarray](./2025/February/3rd_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.md)
