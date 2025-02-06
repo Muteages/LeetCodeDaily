@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## February
 
+[6th, February - Tuple with Same Product](./2025/February/6th_Tuple_with_Same_Product.md)
+
 [5th, February - Check if One String Swap Can Make Strings Equal](./2025/February/5th_Check_if_One_String_Swap_Can_Make_Strings_Equal.md)
 
 [4th, February - Maximum Ascending Subarray Sum](./2025/February/4th_Maximum_Ascending_Subarray_Sum.md)
