@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## February
 
+[7th, February - Find the Number of Distinct Colours Among the Balls](./2025/February/7th_Find_the_Number_of_Distinct_Colours_Among_the_Balls.md)
+
 [6th, February - Tuple with Same Product](./2025/February/6th_Tuple_with_Same_Product.md)
 
 [5th, February - Check if One String Swap Can Make Strings Equal](./2025/February/5th_Check_if_One_String_Swap_Can_Make_Strings_Equal.md)
