@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## February
 
+[8th, February - Design a Number Container System](./2025/February/8th_Design_A_Number_Container_System.md)
+
 [7th, February - Find the Number of Distinct Colours Among the Balls](./2025/February/7th_Find_the_Number_of_Distinct_Colours_Among_the_Balls.md)
 
 [6th, February - Tuple with Same Product](./2025/February/6th_Tuple_with_Same_Product.md)
