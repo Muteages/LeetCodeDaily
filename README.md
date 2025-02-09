@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## February
 
+[9th, February - Count Number of Bad Pairs](./2025/February/9th_Count_Number_of_Bad_Pairs.md)
+
 [8th, February - Design a Number Container System](./2025/February/8th_Design_A_Number_Container_System.md)
 
 [7th, February - Find the Number of Distinct Colours Among the Balls](./2025/February/7th_Find_the_Number_of_Distinct_Colours_Among_the_Balls.md)
