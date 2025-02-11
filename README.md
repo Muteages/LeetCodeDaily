@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## February
 
+[11th, February - Remove All Occurrences of a Substring](./2025/February/11th_Remove_all_Occurences_of_A_Substring.md)
+
 [10th, February - Clear Digits](./2025/February/10th_Clear_Digits.md)
 
 [9th, February - Count Number of Bad Pairs](./2025/February/9th_Count_Number_of_Bad_Pairs.md)
@@ -83,7 +85,7 @@ C++, JavaScript, and now Python!
 
 [16th, December - Final Array State after K Multiplication Operations](./December_2024/16th_Final_Array_State_after_K_Multiplication_Operations.md)
 
-[12nd, December - Take Gifts from the Richest Pile](./December_2024/12nd_Take_Gifts_from_the_Richest_Pile.md)
+[12th, December - Take Gifts from the Richest Pile](./December_2024/12nd_Take_Gifts_from_the_Richest_Pile.md)
 
 [10th, December - Find Longest Special Subtring that Occurs Thrice](./December_2024/10th_Find_Longest_Special_Subtring_that_Occurs_Thrice.md)
 
@@ -138,11 +140,11 @@ C++, JavaScript, and now Python!
 
 [14th, September - Longest Subarray with Maximum Bitwise AND](./September_2024/14th_Longest_Subarray_with_Maximum_Bitwise_AND.md)
 
-[13rd, September - XOR Queries of a Subarray](./September_2024/13rd_XOR_Queries_of_a_Subarray.md)
+[13th, September - XOR Queries of a Subarray](./September_2024/13rd_XOR_Queries_of_a_Subarray.md)
 
-[12nd, September - Count the Number of Consistent Strings](./September_2024/12nd_Count_the_Number_of_Consistent_Strings.md)
+[12th, September - Count the Number of Consistent Strings](./September_2024/12nd_Count_the_Number_of_Consistent_Strings.md)
 
-[11st, September - Group the People Given the Group Size They Belong To](./September/11st_Sept_Group_the_People_Given_the_Group_Size_They_Belong_To.md)
+[11th, September - Group the People Given the Group Size They Belong To](./September/11st_Sept_Group_the_People_Given_the_Group_Size_They_Belong_To.md)
 
 [10th, September - Insert Greatest Common Divisors in Linked List](./September_2024/10th_Insert_Greatest_Common_Divisors_in_Linked_List.md)
 
@@ -190,7 +192,7 @@ C++, JavaScript, and now Python!
 
 [14th, August - Find Kth Smallest Pair Distance](./August_2024/14th_Find_Kth__Smallest_Pair_Distance.md)
 
-[12nd, August - Kth Largest Element in a Stream](./August_2024/12nd_Kth_Largest_Element_in_a_Stream.md)
+[12th, August - Kth Largest Element in a Stream](./August_2024/12nd_Kth_Largest_Element_in_a_Stream.md)
 
 [9th, August - Magic Squares in Grid](./August_2024/9th_Magic_Squares_in_Grid.md)
 
@@ -238,7 +240,7 @@ C++, JavaScript, and now Python!
 
 [15th, July - Create Binary Tree from Descriptions](./July/15th_Create_Binary_Tree_from_Descriptions.md)
 
-[12nd, July - Maximum Score from Removing Substrings](./July/12th_Maximum_Score_from_Removing_Substrings.md)
+[12th, July - Maximum Score from Removing Substrings](./July/12th_Maximum_Score_from_Removing_Substrings.md)
 
 [10th, July - Crawler Log Folder](./July/10th_Crawler_Log_Folder.md)
 
@@ -290,11 +292,11 @@ C++, JavaScript, and now Python!
 
 [14th, June - Minimum Increment to Make Array Unique](./June/14th_Minimum_Increment_to_Make_Array_Unique.md)
 
-[13rd, June - Minimum Number of Moves to Seat Everyone](./June/13rd_Minimum_Number_of_Moves_to_Seat_Everyone.md)
+[13th, June - Minimum Number of Moves to Seat Everyone](./June/13rd_Minimum_Number_of_Moves_to_Seat_Everyone.md)
 
-[12nd, June - Sort Colours](./June/12nd_Sort_Colours.md)
+[12th, June - Sort Colours](./June/12nd_Sort_Colours.md)
 
-[11st, June - Relative Sort Array](./June/11st_Relative_Sort_Array.md)
+[11th, June - Relative Sort Array](./June/11st_Relative_Sort_Array.md)
 
 [10th, June - Height Checker](./June/10th_Height_Checker.md)
 
@@ -398,9 +400,9 @@ C++, JavaScript, and now Python!
 
 [14th, Apr - Sum of Left Leaves](./April/14th_Sum_of_Left_Leaves.md)
 
-[12nd, Apr - Trapping Rain Water](./April/12nd_Trapping_Rain_Water.md)
+[12th, Apr - Trapping Rain Water](./April/12nd_Trapping_Rain_Water.md)
 
-[11st, Apr - Remove K Digits](./April/11st_Remove_K_Digits.md)
+[11th, Apr - Remove K Digits](./April/11st_Remove_K_Digits.md)
 
 [10th, Apr - Reveal Cards In Increasing Order](./April/10th_Reveal_Cards_in_Increasing_Order.md)
 
@@ -460,11 +462,11 @@ C++, JavaScript, and now Python!
 
 [14th, Mar - Binary Subarrays with Sum](./March/14th_Binary_Subarrays_with_Sum.md)
 
-[13rd, Mar - Find the Pivot Integer](./March/13rd_Find_the_Pivot_Integer.md)
+[13th, Mar - Find the Pivot Integer](./March/13rd_Find_the_Pivot_Integer.md)
 
-[12nd, Mar - Remove Zero Sum Consecutive Nodes from Linked List](./March/12nd_Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.md)
+[12th, Mar - Remove Zero Sum Consecutive Nodes from Linked List](./March/12nd_Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.md)
 
-[11st, Mar - Custom Sort String](./March/11st_Custom_Sort_String.md)
+[11th, Mar - Custom Sort String](./March/11st_Custom_Sort_String.md)
 
 [10th, Mar - Intersection of Two Arrays](./March/10th_Intersection_of_Two_Arrays.md)
 
@@ -518,9 +520,9 @@ C++, JavaScript, and now Python!
 
 [14th, Feb - Rearrange Array Elements by Sign](./February/14th_Rearrange_Array_Elements_by_Sign.md)
 
-[13rd, Feb - Find First Palindromic String in the Array](./February/13th_Find_First_Palindromic_String_in_a_Array.md)
+[13th, Feb - Find First Palindromic String in the Array](./February/13th_Find_First_Palindromic_String_in_a_Array.md)
 
-[12nd, Feb - Majority Element](./February/12th_Majority_Element.md)
+[12th, Feb - Majority Element](./February/12th_Majority_Element.md)
 
 [10th, Feb - Palindromic Substrings](./February/10th_Palindrmoic_Substrings.md)
 
@@ -608,11 +610,11 @@ C++, JavaScript, and now Python!
 
 [14th, Dec - Difference Between Ones and Zeros in Row and Column](./December/14th_Difference_Between_Ones_and_Zeros_in_Row_and_Column.md)
 
-[13rd, Dec - Special Positions in a Binary Matrix](./December/13rd_Special_Positions_in_a_Binary_Matrix.md)
+[13th, Dec - Special Positions in a Binary Matrix](./December/13rd_Special_Positions_in_a_Binary_Matrix.md)
 
-[12nd, Dec - Maximum Product of Two Elements in an Array](./December/12nd_Maximum_Product_of_Two_Elements_in_an_Array.md)
+[12th, Dec - Maximum Product of Two Elements in an Array](./December/12nd_Maximum_Product_of_Two_Elements_in_an_Array.md)
 
-[11st, Dec - Element Appearing More Than 25% In Sorted Array](./December/11st_Element_Appearing_More_Than_25_in_Sorted_Array.md)
+[11th, Dec - Element Appearing More Than 25% In Sorted Array](./December/11st_Element_Appearing_More_Than_25_in_Sorted_Array.md)
 
 [10th, Dec - Transpose Matrix](./December/10th_Transpose_Matrix.md)
 
@@ -656,11 +658,11 @@ C++, JavaScript, and now Python!
 
 [10th, Nov - Restore the Array From Adjacent Pairs](./November/10th_Restore_the_Array_from_Adjacent_Pairs.md)
 
-[11st, Nov - Design Graph With Shortest Path Calculator](./November/11st_Design_Graph_with_Shortest_Path_Calculator.md)
+[11th, Nov - Design Graph With Shortest Path Calculator](./November/11st_Design_Graph_with_Shortest_Path_Calculator.md)
 
-[12nd, Nov - Bus Routes](./November/12nd_Bus_Routes.md)
+[12th, Nov - Bus Routes](./November/12nd_Bus_Routes.md)
 
-[13rd, Nov - Sort Vowels in a String](./November/13rd_Sort_Vowels_in_a_String.md)
+[13th, Nov - Sort Vowels in a String](./November/13rd_Sort_Vowels_in_a_String.md)
 
 [14th, Nov - Unique Length-3 Palindromic Subsequences](./November/14th_Unique_Length_3-Palindromic-subsequences.md)
 
@@ -718,11 +720,11 @@ C++, JavaScript, and now Python!
 
 [10th, Oct - Minimum Number of Operations to Make Array Continuous](./October/10th_Minimum_Number_of_Operations_to_Make_Array_Continuous.md)
 
-[11st, Oct - Number of Flowers in Full Bloom](./October/11st_Number_of_Flowers_in_Full_Bloom.md)
+[11th, Oct - Number of Flowers in Full Bloom](./October/11st_Number_of_Flowers_in_Full_Bloom.md)
 
-[12nd, Oct - Find in Mountain Array](./October/12nd_Find_in_Mountain_Array.md)
+[12th, Oct - Find in Mountain Array](./October/12nd_Find_in_Mountain_Array.md)
 
-[13rd, Oct - Min Cost Climbing Stairs](./October/13rd_Min_Cost_Climbing_Stairs.md)
+[13th, Oct - Min Cost Climbing Stairs](./October/13rd_Min_Cost_Climbing_Stairs.md)
 
 [14th, Oct - Find Peak Element](./October/14th_Find_Peak_Element.md)
 
@@ -785,9 +787,9 @@ C++, JavaScript, and now Python!
 
 [11st, Sept - Group the People Given the Group Size They Belong To](./September/11st_Sept_Group_the_People_Given_the_Group_Size_They_Belong_To.md)
 
-[12nd, Sept - Minimum Deletions to Make Character Frequencies Unique](./September/12nd_Sept_Minimum_Deletions_to_Make_Character_Frequencies_Unique.md)
+[12th, Sept - Minimum Deletions to Make Character Frequencies Unique](./September/12nd_Sept_Minimum_Deletions_to_Make_Character_Frequencies_Unique.md)
 
-[13rd, Sept - Candy](./September/13rd_Sept_Candy.md)
+[13th, Sept - Candy](./September/13rd_Sept_Candy.md)
 
 [14th, Sept - Reconstruct Itinerary](./September/14th_Sept_Reconstruct_Itinerary.md)
 
