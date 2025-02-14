@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## February
 
+[14th, February - Product of the Last K Numbers](./2025/February/14th_Product_of_the_Last_K_Numbers.md)
+
 [11th, February - Remove All Occurrences of a Substring](./2025/February/11th_Remove_all_Occurences_of_A_Substring.md)
 
 [10th, February - Clear Digits](./2025/February/10th_Clear_Digits.md)
