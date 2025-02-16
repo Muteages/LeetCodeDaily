@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## February
 
+[16th, February - Construct the Lexicographically Largest Valid Sequence](./2025/February/16th_Construct_the_Lexicographically_Largest_Valid_Sequence.md)
+
 [14th, February - Product of the Last K Numbers](./2025/February/14th_Product_of_the_Last_K_Numbers.md)
 
 [13th, February - Minimum Operations to Exceed Threshold Value II](./2025/February/13th_Minimum_Operations_to_Exceed_Threshold_Value.md)
