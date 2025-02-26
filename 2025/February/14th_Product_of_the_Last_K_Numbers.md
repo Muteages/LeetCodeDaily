@@ -103,13 +103,11 @@ Just want to try to avoid rebuilding products over and over again
 class ProductOfNumbers {
 public:
     ProductOfNumbers() : n(0) {
-       //stream.clear();
         products.emplace_back(1);
         zeros.emplace_back(0);
     }
     
     void add(int num) {
-        //stream.emplace_back(num);
         products.emplace_back(num == 0 ? 1 : products.back() * num);
         zeros.emplace_back(zeros.back() + (num == 0));
         n++;

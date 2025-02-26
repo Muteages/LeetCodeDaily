@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## February
 
+[25th, February - Number of Subarrays with Odd Sum](./2025/February/25th_Number_of_Subarrays_with_Odd_Sum.md)
+
 [16th, February - Construct the Lexicographically Largest Valid Sequence](./2025/February/16th_Construct_the_Lexicographically_Largest_Valid_Sequence.md)
 
 [14th, February - Product of the Last K Numbers](./2025/February/14th_Product_of_the_Last_K_Numbers.md)
