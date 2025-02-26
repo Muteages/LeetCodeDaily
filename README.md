@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## February
 
+[26th, February - Maximum Absolute Sum of Any Subarray](./2025/February/26th_Maximum_Absolute_Sum_of_Any_Subarray.md)
+
 [25th, February - Number of Subarrays with Odd Sum](./2025/February/25th_Number_of_Subarrays_with_Odd_Sum.md)
 
 [16th, February - Construct the Lexicographically Largest Valid Sequence](./2025/February/16th_Construct_the_Lexicographically_Largest_Valid_Sequence.md)
