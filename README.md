@@ -7,6 +7,8 @@ C++, JavaScript, and now Python!
 
 ## February
 
+[27th, February - Length of Longest Fibonacci Subsequence](./2025/February/27th_Length_of_Longest_Fibonacci_Subsequence.md)
+
 [26th, February - Maximum Absolute Sum of Any Subarray](./2025/February/26th_Maximum_Absolute_Sum_of_Any_Subarray.md)
 
 [25th, February - Number of Subarrays with Odd Sum](./2025/February/25th_Number_of_Subarrays_with_Odd_Sum.md)
